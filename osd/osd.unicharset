@@ -1,0 +1,80 @@
+79
+NULL 0 Common 0
+Joined 7 0,255,0,255,0,0,0,0,0,0 Latin 1 0 1 Joined	# Joined [4a 6f 69 6e 65 64 ]a
+|Broken|0|1 f 0,255,0,255,0,0,0,0,0,0 Common 2 10 2 |Broken|0|1	# Broken
+Arabic 7 0,255,0,255,0,0,0,0,0,0 Latin 3 0 3 Arabic	# Arabic [41 72 61 62 69 63 ]a
+Arabic-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 4 0 4 Arabic-dn	# Arabic-dn [41 72 61 62 69 63 2d 64 6e ]ap
+Armenian 7 0,255,0,255,0,0,0,0,0,0 Latin 5 0 5 Armenian	# Armenian [41 72 6d 65 6e 69 61 6e ]a
+Armenian-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 6 0 6 Armenian-dn	# Armenian-dn [41 72 6d 65 6e 69 61 6e 2d 64 6e ]ap
+Bengali 7 0,255,0,255,0,0,0,0,0,0 Latin 7 0 7 Bengali	# Bengali [42 65 6e 67 61 6c 69 ]a
+Bengali-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 8 0 8 Bengali-dn	# Bengali-dn [42 65 6e 67 61 6c 69 2d 64 6e ]ap
+Canadian_Aboriginal 17 0,255,0,255,0,0,0,0,0,0 Latin 9 0 9 Canadian_Aboriginal	# Canadian_Aboriginal [43 61 6e 61 64 69 61 6e 5f 41 62 6f 72 69 67 69 6e 61 6c ]ap
+Canadian_Aboriginal-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 10 0 10 Canadian_Aboriginal-dn	# Canadian_Aboriginal-dn [43 61 6e 61 64 69 61 6e 5f 41 62 6f 72 69 67 69 6e 61 6c 2d 64 6e ]ap
+Cherokee 7 0,255,0,255,0,0,0,0,0,0 Latin 11 0 11 Cherokee	# Cherokee [43 68 65 72 6f 6b 65 65 ]a
+Cherokee-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 12 0 12 Cherokee-dn	# Cherokee-dn [43 68 65 72 6f 6b 65 65 2d 64 6e ]ap
+Cyrillic 7 0,255,0,255,0,0,0,0,0,0 Latin 13 0 13 Cyrillic	# Cyrillic [43 79 72 69 6c 6c 69 63 ]a
+Cyrillic-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 14 0 14 Cyrillic-dn	# Cyrillic-dn [43 79 72 69 6c 6c 69 63 2d 64 6e ]ap
+Devanagari 7 0,255,0,255,0,0,0,0,0,0 Latin 15 0 15 Devanagari	# Devanagari [44 65 76 61 6e 61 67 61 72 69 ]a
+Devanagari-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 16 0 16 Devanagari-dn	# Devanagari-dn [44 65 76 61 6e 61 67 61 72 69 2d 64 6e ]ap
+Ethiopic 7 0,255,0,255,0,0,0,0,0,0 Latin 17 0 17 Ethiopic	# Ethiopic [45 74 68 69 6f 70 69 63 ]a
+Ethiopic-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 18 0 18 Ethiopic-dn	# Ethiopic-dn [45 74 68 69 6f 70 69 63 2d 64 6e ]ap
+Fraktur 7 0,255,0,255,0,0,0,0,0,0 Latin 19 0 19 Fraktur	# Fraktur [46 72 61 6b 74 75 72 ]a
+Fraktur-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 20 0 20 Fraktur-dn	# Fraktur-dn [46 72 61 6b 74 75 72 2d 64 6e ]ap
+Georgian 7 0,255,0,255,0,0,0,0,0,0 Latin 21 0 21 Georgian	# Georgian [47 65 6f 72 67 69 61 6e ]a
+Georgian-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 22 0 22 Georgian-dn	# Georgian-dn [47 65 6f 72 67 69 61 6e 2d 64 6e ]ap
+Greek 7 0,255,0,255,0,0,0,0,0,0 Latin 23 0 23 Greek	# Greek [47 72 65 65 6b ]a
+Greek-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 24 0 24 Greek-dn	# Greek-dn [47 72 65 65 6b 2d 64 6e ]ap
+Gujarati 7 0,255,0,255,0,0,0,0,0,0 Latin 25 0 25 Gujarati	# Gujarati [47 75 6a 61 72 61 74 69 ]a
+Gujarati-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 26 0 26 Gujarati-dn	# Gujarati-dn [47 75 6a 61 72 61 74 69 2d 64 6e ]ap
+Gurmukhi 7 0,255,0,255,0,0,0,0,0,0 Latin 27 0 27 Gurmukhi	# Gurmukhi [47 75 72 6d 75 6b 68 69 ]a
+Gurmukhi-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 28 0 28 Gurmukhi-dn	# Gurmukhi-dn [47 75 72 6d 75 6b 68 69 2d 64 6e ]ap
+Hangul 7 0,255,0,255,0,0,0,0,0,0 Latin 29 0 29 Hangul	# Hangul [48 61 6e 67 75 6c ]a
+Hangul-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 30 0 30 Hangul-dn	# Hangul-dn [48 61 6e 67 75 6c 2d 64 6e ]ap
+Hangul_vert 17 0,255,0,255,0,0,0,0,0,0 Latin 31 0 31 Hangul_vert	# Hangul_vert [48 61 6e 67 75 6c 5f 76 65 72 74 ]ap
+Hangul_vert-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 32 0 32 Hangul_vert-dn	# Hangul_vert-dn [48 61 6e 67 75 6c 5f 76 65 72 74 2d 64 6e ]ap
+HanS 7 0,255,0,255,0,0,0,0,0,0 Latin 33 0 33 HanS	# HanS [48 61 6e 53 ]a
+HanS-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 34 0 34 HanS-dn	# HanS-dn [48 61 6e 53 2d 64 6e ]ap
+HanS_vert 17 0,255,0,255,0,0,0,0,0,0 Latin 35 0 35 HanS_vert	# HanS_vert [48 61 6e 53 5f 76 65 72 74 ]ap
+HanS_vert-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 36 0 36 HanS_vert-dn	# HanS_vert-dn [48 61 6e 53 5f 76 65 72 74 2d 64 6e ]ap
+HanT 7 0,255,0,255,0,0,0,0,0,0 Latin 37 0 37 HanT	# HanT [48 61 6e 54 ]a
+HanT-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 38 0 38 HanT-dn	# HanT-dn [48 61 6e 54 2d 64 6e ]ap
+HanT_vert 17 0,255,0,255,0,0,0,0,0,0 Latin 39 0 39 HanT_vert	# HanT_vert [48 61 6e 54 5f 76 65 72 74 ]ap
+HanT_vert-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 40 0 40 HanT_vert-dn	# HanT_vert-dn [48 61 6e 54 5f 76 65 72 74 2d 64 6e ]ap
+Hebrew 7 0,255,0,255,0,0,0,0,0,0 Latin 41 0 41 Hebrew	# Hebrew [48 65 62 72 65 77 ]a
+Hebrew-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 42 0 42 Hebrew-dn	# Hebrew-dn [48 65 62 72 65 77 2d 64 6e ]ap
+Japanese 7 0,255,0,255,0,0,0,0,0,0 Latin 43 0 43 Japanese	# Japanese [4a 61 70 61 6e 65 73 65 ]a
+Japanese-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 44 0 44 Japanese-dn	# Japanese-dn [4a 61 70 61 6e 65 73 65 2d 64 6e ]ap
+Japanese_vert 17 0,255,0,255,0,0,0,0,0,0 Latin 45 0 45 Japanese_vert	# Japanese_vert [4a 61 70 61 6e 65 73 65 5f 76 65 72 74 ]ap
+Japanese_vert-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 46 0 46 Japanese_vert-dn	# Japanese_vert-dn [4a 61 70 61 6e 65 73 65 5f 76 65 72 74 2d 64 6e ]ap
+Kannada 7 0,255,0,255,0,0,0,0,0,0 Latin 47 0 47 Kannada	# Kannada [4b 61 6e 6e 61 64 61 ]a
+Kannada-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 48 0 48 Kannada-dn	# Kannada-dn [4b 61 6e 6e 61 64 61 2d 64 6e ]ap
+Khmer 7 0,255,0,255,0,0,0,0,0,0 Latin 49 0 49 Khmer	# Khmer [4b 68 6d 65 72 ]a
+Khmer-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 50 0 50 Khmer-dn	# Khmer-dn [4b 68 6d 65 72 2d 64 6e ]ap
+Lao 7 0,255,0,255,0,0,0,0,0,0 Latin 51 0 51 Lao	# Lao [4c 61 6f ]a
+Lao-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 52 0 52 Lao-dn	# Lao-dn [4c 61 6f 2d 64 6e ]ap
+Latin 7 0,255,0,255,0,0,0,0,0,0 Latin 53 0 53 Latin	# Latin [4c 61 74 69 6e ]a
+Latin-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 54 0 54 Latin-dn	# Latin-dn [4c 61 74 69 6e 2d 64 6e ]ap
+Malayalam 7 0,255,0,255,0,0,0,0,0,0 Latin 55 0 55 Malayalam	# Malayalam [4d 61 6c 61 79 61 6c 61 6d ]a
+Malayalam-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 56 0 56 Malayalam-dn	# Malayalam-dn [4d 61 6c 61 79 61 6c 61 6d 2d 64 6e ]ap
+Myanmar 7 0,255,0,255,0,0,0,0,0,0 Latin 57 0 57 Myanmar	# Myanmar [4d 79 61 6e 6d 61 72 ]a
+Myanmar-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 58 0 58 Myanmar-dn	# Myanmar-dn [4d 79 61 6e 6d 61 72 2d 64 6e ]ap
+Oriya 7 0,255,0,255,0,0,0,0,0,0 Latin 59 0 59 Oriya	# Oriya [4f 72 69 79 61 ]a
+Oriya-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 60 0 60 Oriya-dn	# Oriya-dn [4f 72 69 79 61 2d 64 6e ]ap
+Sinhala 7 0,255,0,255,0,0,0,0,0,0 Latin 61 0 61 Sinhala	# Sinhala [53 69 6e 68 61 6c 61 ]a
+Sinhala-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 62 0 62 Sinhala-dn	# Sinhala-dn [53 69 6e 68 61 6c 61 2d 64 6e ]ap
+Syriac 7 0,255,0,255,0,0,0,0,0,0 Latin 63 0 63 Syriac	# Syriac [53 79 72 69 61 63 ]a
+Syriac-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 64 0 64 Syriac-dn	# Syriac-dn [53 79 72 69 61 63 2d 64 6e ]ap
+Tamil 7 0,255,0,255,0,0,0,0,0,0 Latin 65 0 65 Tamil	# Tamil [54 61 6d 69 6c ]a
+Tamil-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 66 0 66 Tamil-dn	# Tamil-dn [54 61 6d 69 6c 2d 64 6e ]ap
+Telugu 7 0,255,0,255,0,0,0,0,0,0 Latin 67 0 67 Telugu	# Telugu [54 65 6c 75 67 75 ]a
+Telugu-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 68 0 68 Telugu-dn	# Telugu-dn [54 65 6c 75 67 75 2d 64 6e ]ap
+Thaana 7 0,255,0,255,0,0,0,0,0,0 Latin 69 0 69 Thaana	# Thaana [54 68 61 61 6e 61 ]a
+Thaana-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 70 0 70 Thaana-dn	# Thaana-dn [54 68 61 61 6e 61 2d 64 6e ]ap
+Thai 7 0,255,0,255,0,0,0,0,0,0 Latin 71 0 71 Thai	# Thai [54 68 61 69 ]a
+Thai-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 72 0 72 Thai-dn	# Thai-dn [54 68 61 69 2d 64 6e ]ap
+Tibetan 7 0,255,0,255,0,0,0,0,0,0 Latin 73 0 73 Tibetan	# Tibetan [54 69 62 65 74 61 6e ]a
+Tibetan-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 74 0 74 Tibetan-dn	# Tibetan-dn [54 69 62 65 74 61 6e 2d 64 6e ]ap
+Vietnamese 7 0,255,0,255,0,0,0,0,0,0 Latin 75 0 75 Vietnamese	# Vietnamese [56 69 65 74 6e 61 6d 65 73 65 ]a
+Vietnamese-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 76 0 76 Vietnamese-dn	# Vietnamese-dn [56 69 65 74 6e 61 6d 65 73 65 2d 64 6e ]ap
+Common 7 0,255,0,255,0,0,0,0,0,0 Latin 77 0 77 Common	# Common [43 6f 6d 6d 6f 6e ]a
+Common-dn 17 0,255,0,255,0,0,0,0,0,0 Latin 78 0 78 Common-dn	# Common-dn [43 6f 6d 6d 6f 6e 2d 64 6e ]ap
