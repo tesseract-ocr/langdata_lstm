@@ -1,0 +1,11 @@
+aakar medium
+Arial Unicode MS Regular
+FreeSerif Regular
+Lohit Gujarati Regular
+Noto Sans Gujarati Bold
+Noto Sans Gujarati Regular
+padmaa Bold
+Rekha Medium
+Samyak Gujarati Medium
+Shruti Bold
+Shruti Regular

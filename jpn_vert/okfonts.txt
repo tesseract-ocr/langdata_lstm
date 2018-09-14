@@ -1,0 +1,60 @@
+Arial Unicode MS Regular
+Droid Sans Fallback Regular
+IPAPGothic Regular
+IPAGothic Regular
+IPAUIGothic Regular
+IPAPMincho Regular
+IPAMincho Regular
+Kochi Gothic Regular
+Kochi Gothic Regular
+Kochi Mincho Regular
+Kochi Mincho Regular
+Monapo Regular
+MS Gothic Regular
+MS Mincho Regular
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExAporo
+MotoyaExBirch
+MotoyaExBirch
+MotoyaExBirch
+MotoyaExBirch
+MotoyaExBirch
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExCedar
+MotoyaExGothic
+MotoyaExGothic
+MotoyaExGothic
+MotoyaExGothic
+MotoyaExKyotai
+MotoyaExKyotai
+MotoyaExKyotai
+Noto Sans Japanese Black
+Noto Sans Japanese Bold
+Noto Sans Japanese Light
+Noto Sans Japanese Light
+Noto Sans Japanese Medium
+Noto Sans Japanese Regular
+Noto Sans Japanese Thin
+TakaoExGothic Regular
+TakaoExMincho Regular
+TakaoGothic Regular
+TakaoMincho Regular
+TakaoPGothic Regular
+TakaoPMincho Regular
+UmePlus Gothic Regular
+UmePlus P Gothic Regular
+VL Gothic regular
+VL PGothic regular
+WenQuanYi Zen Hei Medium

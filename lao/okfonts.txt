@@ -1,0 +1,24 @@
+Arial Unicode MS Regular
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Oblique
+DejaVu Sans
+Dhyana Bold
+Dhyana Regular
+Lao Muang Don Regular
+Lao Muang Khong Regular
+Lao Sans Pro Regular
+Noto Sans Lao Bold
+Noto Sans Lao Regular
+Noto Sans Lao UI Bold
+Noto Sans Lao UI Regular
+Noto Serif Lao Bold
+Noto Serif Lao Regular
+Phetsarath Bold
+Phetsarath OT Regular
+Phetsarath Regular
+Souliyo Unicode Regular

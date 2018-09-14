@@ -1,0 +1,16 @@
+Khmer OS Battambang Regular
+Khmer OS Bokor Regular
+Khmer OS Content Regular
+Khmer OS Fasthand Regular
+Khmer OS Freehand Regular
+Khmer OS Metal Chrieng Regular
+Khmer OS Muol Light
+Khmer OS Muol Pali Regular
+Khmer OS Muol Regular
+Khmer OS Siemreap Regular
+Khmer OS System Regular
+Khmer OS Regular
+Noto Sans Bold
+Noto Sans Regular
+Noto Serif Khmer Bold
+Noto Serif Khmer Light

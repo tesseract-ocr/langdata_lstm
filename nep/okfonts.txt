@@ -1,0 +1,48 @@
+Arial Unicode MS Regular
+Chandas Regular
+FreeSans Semi-Bold
+FreeSans Regular
+FreeSerif Bold
+FreeSerif Regular
+gargi Medium
+Kalimati Regular
+Lohit Devanagari Regular
+Lohit Devanagari Regular
+Lohit Konkani Regular
+Lohit Kashmiri Regular
+Lohit Maithili Regular
+Lohit Marathi Regular
+Lohit Nepali Regular
+Lohit Sindhi Regular
+Lucida Sans Regular
+Nakula Regular
+Noto Sans Devanagari Bold
+Noto Sans Devanagari Regular
+Noto Sans Devanagari UI Bold
+Noto Sans Devanagari UI Regular
+Sahadeva Regular
+Samanata Regular
+Samyak Devanagari Medium
+Santipur OT Medium
+Sarai Regular
+GIST-SDOTDhruv Bold Italic
+GIST-SDOTDhruv Bold
+GIST-SDOTDhruv Italic
+GIST-SDOTDhruv
+GIST-SDOTMohini Bold Italic
+GIST-SDOTMohini Bold
+GIST-SDOTMohini Italic
+GIST-SDOTMohini
+GIST-SDOTSubodh Bold Italic
+GIST-SDOTSubodh Bold
+GIST-SDOTSubodh Italic
+GIST-SDOTSubodh
+GIST-SDOTVinit Bold Italic
+GIST-SDOTVinit Bold
+GIST-SDOTVinit Italic
+GIST-SDOTVinit
+GIST-SDOTVishakha Bold Italic
+GIST-SDOTVishakha Bold
+GIST-SDOTVishakha Italic
+GIST-SDOTVishakha
+Uttara Regular

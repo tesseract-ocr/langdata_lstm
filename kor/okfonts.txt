@@ -1,0 +1,36 @@
+Arial Unicode MS Regular
+Baekmuk Batang Patched Regular
+Bandal Medium
+Bangwool Medium
+Baekmuk Batang Regular
+Baekmuk Dotum Regular
+Dotum Regular
+EunjinNakseo Medium
+Eunjin Medium
+FBHanGothicDB Regular
+Baekmuk Gulim Regular
+Guseul Medium
+Baekmuk Headline Regular
+JejuGothic Regular
+JejuHallasan Regular
+JejuMyeongjo Regular
+KoPub Batang Bold
+KoPub Batang Light
+KoPub Batang Regular
+NanumBarunGothic Semi-Bold
+NanumBarunGothic Regular
+Nanum Brush Script Regular
+NanumGothic Bold
+NanumGothic Semi-Bold
+NanumGothicCoding Bold
+NanumGothicCoding Regular
+NanumGothic ExtraBold
+NanumGothic Regular
+NanumGothic Regular
+NanumMyeongjo Semi-Bold
+NanumMyeongjo Semi-Bold
+NanumMyeongjo Bold
+NanumMyeongjo Regular
+NanumMyeongjo Regular
+Nanum Pen Regular
+WenQuanYi Zen Hei Medium

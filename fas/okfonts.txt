@@ -1,0 +1,10 @@
+DejaVu Sans Bold
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Mono Bold
+DejaVu Sans Mono
+DejaVu Sans
+FreeMono Regular
+FreeSerif Bold
+FreeSerif Regular
+Tahoma Regular

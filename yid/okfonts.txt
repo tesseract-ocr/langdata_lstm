@@ -1,0 +1,133 @@
+Alef Bold
+Alef Regular
+Andale Hebrew Regular,
+Andale Hebrew Bold SemiCond Bold
+Andale Hebrew Medium SemiCond Regular
+Arial Bold
+Arial Bold Italic
+Arial Bold Italic
+Arial Bold
+Arial Italic
+Arial Italic
+Arial Regular
+Arial Regular
+Arial Unicode MS Regular
+Linux Biolinum O Bold
+Linux Biolinum O Regular
+Courier New Bold
+Courier New Bold Italic
+Courier New Bold Italic
+Courier New Bold
+Courier New Italic
+Courier New Regular
+Courier New Italic
+Courier New Regular
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Oblique
+DejaVu Sans
+Droid Sans Hebrew Semi-Bold
+Droid Sans Hebrew Regular
+Ergo Hebrew Bold Italic
+Ergo Hebrew Bold
+Ergo Hebrew Semi-Bold Italic
+Ergo Hebrew Semi-Bold
+Ergo Hebrew Italic
+Ergo Hebrew Medium Italic
+Ergo Hebrew Medium
+Ergo Hebrew Regular
+Ergo LT W2G Bold Italic
+Ergo LT W2G Bold
+Ergo LT W2G Semi-Bold Italic
+Ergo LT W2G Semi-Bold
+Ergo LT W2G Italic
+Ergo LT W2G Medium Italic
+Ergo LT W2G Medium
+Ergo LT W2G Regular
+FreeMono Bold Italic
+FreeMono Bold
+FreeMono Italic
+FreeMono Regular
+FreeSans Semi-Bold Italic
+FreeSans Semi-Bold
+FreeSans Italic
+FreeSans Regular
+FreeSerif Bold Italic
+FreeSerif Bold
+FreeSerif Italic
+FreeSerif Regular
+Helvetica Hebrew Bold Italic
+Helvetica Hebrew Bold
+Helvetica Hebrew Italic
+Helvetica Hebrew Regular
+Linux Libertine O Bold
+Linux Libertine O Bold Italic
+Linux Libertine O Italic
+Linux Libertine O Regular
+Lucida Sans Demibold
+Lucida Sans Demibold Oblique
+Lucida Sans Oblique
+Lucida Sans Regular
+Lucida Sans Typewriter Bold Oblique
+Lucida Sans Typewriter Bold
+Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter Regular
+Noto Sans Hebrew Semi-Bold
+Noto Sans Hebrew Regular
+Open Sans Hebrew Bold Italic
+Open Sans Hebrew Bold
+Open Sans Hebrew Condensed, Bold Italic Condensed
+Open Sans Hebrew Condensed, Bold Condensed
+Open Sans Hebrew Condensed, Ultra-Bold Italic Condensed
+Open Sans Hebrew Condensed, Ultra-Bold Condensed
+Open Sans Hebrew Condensed, Italic Condensed
+Open Sans Hebrew Condensed, Light Italic Condensed
+Open Sans Hebrew Condensed, Light Condensed
+Open Sans Hebrew Condensed, Condensed
+Open Sans Hebrew Ultra-Bold Italic
+Open Sans Hebrew Ultra-Bold
+Open Sans Hebrew Italic
+Open Sans Hebrew Light Italic
+Open Sans Hebrew Light
+Open Sans Hebrew Regular
+Really No 2 Hebrew Bold Italic
+Really No 2 Hebrew Bold
+Really No 2 Hebrew Semi-Bold Italic
+Really No 2 Hebrew Semi-Bold
+Really No 2 Hebrew Ultra-Bold Italic
+Really No 2 Hebrew Ultra-Bold
+Really No 2 Hebrew Italic
+Really No 2 Hebrew Light Italic
+Really No 2 Hebrew Light
+Really No 2 Hebrew Medium Italic
+Really No 2 Hebrew Medium
+Really No 2 Hebrew Regular
+Really No 2 Hebrew Semibold Italic
+Really No 2 Hebrew Semibold
+Really No 2 LT W2G Bold Italic
+Really No 2 LT W2G Bold
+Really No 2 LT W2G Semi-Bold Italic
+Really No 2 LT W2G Semi-Bold
+Really No 2 LT W2G Ultra-Bold Italic
+Really No 2 LT W2G Ultra-Bold
+Really No 2 LT W2G Italic
+Really No 2 LT W2G Light Italic
+Really No 2 LT W2G Light
+Really No 2 LT W2G Medium Italic
+Really No 2 LT W2G Medium
+Really No 2 LT W2G Regular
+Really No 2 LT W2G Semibold Italic
+Really No 2 LT W2G Semibold
+Tahoma Regular
+Times New Roman, Bold
+Times New Roman, Bold Italic
+Times New Roman, Italic
+Times New Roman, Bold Italic
+Times New Roman, Bold
+Times New Roman, Italic
+Times New Roman,
+Times New Roman,

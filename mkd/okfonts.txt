@@ -1,0 +1,343 @@
+Alexander Regular
+Alfios Bold
+Alfios Italic
+Alfios Bold Italic
+Alfios Regular
+Anaktoria Regular
+Arial MT Pro Cyr Black
+Arial MT Pro Cyr Bold Italic
+Arial MT Pro Cyr Bold
+Arial MT Pro Cyr Italic
+Arial MT Pro Cyr Light
+Arial MT Pro Cyr Regular
+Arial Narrow MT Pro Cyr Bold Italic
+Arial Narrow MT Pro Cyr Bold
+Arial Narrow MT Pro Cyr Italic
+Arial Narrow MT Pro Cyr Regular
+Aroania Bold
+Aroania Regular
+Atavyros Regular
+Avdira Bold
+Avdira Italic
+Avdira Bold Italic
+Avdira Regular
+Bariton LT W1G Semi-Bold
+Linux Biolinum O Bold
+Linux Biolinum O Regular
+Bookman Old Style Pro Cyr Bold Italic
+Bookman Old Style Pro Cyr Bold
+Bookman Old Style Pro Cyr Italic
+Bookman Old Style Pro Cyr Regular
+BPG Mrgvlovani Caps GNU&GPL Regular
+BPG Mrgvlovani GPL&GNU Regular
+Century Gothic Pro Cyr Bold Italic
+Century Gothic Pro Cyr Bold
+Century Gothic Pro Cyr Italic
+Century Gothic Pro Cyr Regular
+Century Schlbk Pro Cyr Bold Italic
+Century Schlbk Pro Cyr Bold
+Century Schlbk Pro Cyr Italic
+Century Schlbk Pro Cyr Regular
+Courier PS Pro Cyr Bold Italic
+Courier PS Pro Cyr Bold
+Courier PS Pro Cyr Medium Italic
+Courier PS Pro Cyr Medium
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans ExtraLight
+DejaVu Sans Mono Bold Oblique
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Oblique
+DejaVu Sans Mono
+DejaVu Sans Oblique
+DejaVu Sans
+DejaVu Serif Bold Italic
+DejaVu Serif Bold Oblique
+DejaVu Serif Bold
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif Oblique
+DejaVu Serif
+DIN 1451 LT CYR
+DIN 1451 LT W1G
+Droid Sans Bold
+Droid Sans Mono Regular
+Droid Sans Regular
+Droid Serif Bold Italic
+Droid Serif Bold
+Droid Serif Italic
+Droid Serif Regular
+Ergo LT CYR Bold Italic
+Ergo LT CYR Bold
+Ergo LT CYR Semi-Bold Italic
+Ergo LT CYR Semi-Bold
+Ergo LT CYR Italic
+Ergo LT CYR Medium Italic
+Ergo LT CYR Medium
+Ergo LT CYR Regular
+Ergo LT W1G Bold Italic
+Ergo LT W1G Bold
+Ergo LT W1G Semi-Bold Italic
+Ergo LT W1G Semi-Bold
+Ergo LT W1G Italic
+Ergo LT W1G Medium Italic
+Ergo LT W1G Medium
+Ergo LT W1G Regular
+Ergo LT W2G Bold Italic
+Ergo LT W2G Bold
+Ergo LT W2G Semi-Bold Italic
+Ergo LT W2G Semi-Bold
+Ergo LT W2G Italic
+Ergo LT W2G Medium Italic
+Ergo LT W2G Medium
+Ergo LT W2G Regular
+Francker CYR Black
+Francker CYR Bold
+Francker CYR Heavy
+Francker CYR Ultra-Bold
+Francker CYR Ultra-Light
+Francker CYR Light
+Francker CYR Medium
+Francker CYR Regular
+Francker CYR Semibold
+Francker W1G Black
+Francker W1G Bold
+Francker W1G Heavy
+Francker W1G Ultra-Bold
+Francker W1G Ultra-Light
+Francker W1G Light
+Francker W1G Medium
+Francker W1G Regular
+Francker W1G Semibold
+FreeMono Bold Italic
+FreeMono Bold
+FreeMono Italic
+FreeMono Regular
+FreeSans Semi-Bold Italic
+FreeSans Semi-Bold
+FreeSans Italic
+FreeSans Regular
+FreeSerif Bold Italic
+FreeSerif Bold
+FreeSerif Italic
+FreeSerif Regular
+Gill Sans MT Pro Cyr Bold Italic
+Gill Sans MT Pro Cyr Bold
+Gill Sans MT Pro Cyr Light Italic
+Gill Sans MT Pro Cyr Light
+Gill Sans MT Pro Cyr Medium Italic
+Gill Sans MT Pro Cyr Medium
+Harmonia Sans Pro Cyr Black Italic
+Harmonia Sans Pro Cyr Black
+Harmonia Sans Pro Cyr Bold Condensed
+Harmonia Sans Pro Cyr Bold Italic
+Harmonia Sans Pro Cyr Bold
+Harmonia Sans Pro Cyr Condensed
+Harmonia Sans Pro Cyr Italic
+Harmonia Sans Pro Cyr Light Italic
+Harmonia Sans Pro Cyr Light
+Harmonia Sans Pro Cyr Regular
+Harmonia Sans Pro Cyr Semi-Bold Condensed
+Harmonia Sans Pro Cyr Semi-Bold Italic
+Harmonia Sans Pro Cyr Semi-Bold
+Harmonia Sans W1G Black Italic
+Harmonia Sans W1G Black
+Harmonia Sans W1G Bold Condensed
+Harmonia Sans W1G Bold Italic
+Harmonia Sans W1G Bold
+Harmonia Sans W1G Condensed
+Harmonia Sans W1G Italic
+Harmonia Sans W1G Light Italic
+Harmonia Sans W1G Light
+Harmonia Sans W1G Regular
+Harmonia Sans W1G Semi-Bold Condensed
+Harmonia Sans W1G Semibold Italic
+Harmonia Sans W1G Semibold
+Helvetica Monospaced W1G Bold Italic
+Helvetica Monospaced W1G Bold
+Helvetica Monospaced W1G Italic
+Helvetica Monospaced W1G Regular
+Helvetica Neue LT CYR Bold Italic
+Helvetica Neue LT CYR Bold
+Helvetica Neue LT CYR Ultra-Bold Italic
+Helvetica Neue LT CYR Ultra-Bold
+Helvetica Neue LT CYR Italic
+Helvetica Neue LT CYR Medium Italic
+Helvetica Neue LT CYR Medium
+Helvetica Neue LT CYR
+Liberation Mono Bold Italic
+Liberation Mono Bold
+Liberation Mono Italic
+Liberation Mono Regular
+Liberation Sans Bold Italic
+Liberation Sans Bold
+Liberation Sans Italic
+Liberation Sans Narrow Bold Italic Condensed
+Liberation Sans Narrow Bold Condensed
+Liberation Sans Narrow Italic Condensed
+Liberation Sans Narrow Condensed
+Liberation Sans Regular
+Liberation Serif Bold Italic
+Liberation Serif Bold
+Liberation Serif Italic
+Liberation Serif Regular
+Linux Libertine O Bold
+Linux Libertine O Bold Italic
+Linux Libertine O Italic
+Linux Libertine O Regular
+Palatino Linotype Regular
+Palatino Linotype Italic
+Palatino Linotype Bold
+Palatino Linotype Bold Italic
+Luba LT CYR Bold
+Luba LT CYR Light
+Luba LT CYR Semi-Bold
+Luba LT CYR Regular
+Mantika Informal Cyr Bold
+Mantika Informal Cyr Regular
+Mantika Informal W1G Bold
+Mantika Informal W1G Bold
+Mantika Informal W1G Regular
+Mantika Informal W1G Regular
+Neo Sans W1G Black Italic
+Neo Sans W1G Black
+Neo Sans W1G Bold Italic
+Neo Sans W1G Bold
+Neo Sans W1G Italic
+Neo Sans W1G Light Italic
+Neo Sans W1G Light
+Neo Sans W1G Medium Italic
+Neo Sans W1G Medium
+Neo Sans W1G Regular
+Neo Sans W1G Heavy Italic
+Neo Sans W1G Heavy
+Nimrod MT Pro Cyr Bold Italic
+Nimrod MT Pro Cyr Bold
+Nimrod MT Pro Cyr Italic
+Nimrod MT Pro Cyr Regular
+Octane LT Com Bold Italic
+Octane LT Com Bold
+Octane LT Com Italic
+Octane LT Com Regular
+Optima LT CYR Bold Oblique
+Optima LT CYR Bold
+Optima LT CYR Oblique
+Optima LT CYR Roman
+Parma MT Pro Cyr Bold
+Parma MT Pro Cyr Italic
+Parma MT Pro Cyr Regular
+Really No 2 LT CYR Bold Italic
+Really No 2 LT CYR Bold
+Really No 2 LT CYR Semi-Bold Italic
+Really No 2 LT CYR Semi-Bold
+Really No 2 LT CYR Ultra-Bold Italic
+Really No 2 LT CYR Ultra-Bold
+Really No 2 LT CYR Italic
+Really No 2 LT CYR Light Italic
+Really No 2 LT CYR Light
+Really No 2 LT CYR Medium Italic
+Really No 2 LT CYR Medium
+Really No 2 LT CYR Regular
+Really No 2 LT CYR Semibold Italic
+Really No 2 LT CYR Semibold
+Really No 2 LT W1G Bold Italic
+Really No 2 LT W1G Bold
+Really No 2 LT W1G Semi-Bold Italic
+Really No 2 LT W1G Semi-Bold
+Really No 2 LT W1G Ultra-Bold Italic
+Really No 2 LT W1G Ultra-Bold
+Really No 2 LT W1G Italic
+Really No 2 LT W1G Light Italic
+Really No 2 LT W1G Light
+Really No 2 LT W1G Medium Italic
+Really No 2 LT W1G Medium
+Really No 2 LT W1G Regular
+Really No 2 LT W1G Semibold Italic
+Really No 2 LT W1G Semibold
+Really No 2 LT W2G Bold Italic
+Really No 2 LT W2G Bold
+Really No 2 LT W2G Semi-Bold Italic
+Really No 2 LT W2G Semi-Bold
+Really No 2 LT W2G Ultra-Bold Italic
+Really No 2 LT W2G Ultra-Bold
+Really No 2 LT W2G Italic
+Really No 2 LT W2G Light Italic
+Really No 2 LT W2G Light
+Really No 2 LT W2G Medium Italic
+Really No 2 LT W2G Medium
+Really No 2 LT W2G Regular
+Really No 2 LT W2G Semibold Italic
+Really No 2 LT W2G Semibold
+Rotis Sans Serif Pro Cyrillic Bold
+Rotis Sans Serif Pro Cyrillic ExtraBold
+Rotis Sans Serif Pro Cyrillic Italic
+Rotis Sans Serif Pro Cyrillic Light
+Rotis Sans Serif Pro Cyrillic Light Italic
+Rotis Sans Serif Pro Cyrillic Regular
+Rotis Sans Serif W1G Bold
+Rotis Sans Serif W1G Italic
+Rotis Sans Serif W1G Light Italic
+Rotis Sans Serif W1G Light
+Rotis Sans Serif W1G Regular
+Rotis Sans Serif W1G Ultra-Bold
+Rotis SemiSans Pro Cyrillic Bold
+Rotis SemiSans Pro Cyrillic ExtraBold
+Rotis SemiSans Pro Cyrillic Italic
+Rotis SemiSans Pro Cyrillic Light
+Rotis SemiSans Pro Cyrillic Light Italic
+Rotis SemiSans Pro Cyrillic Regular
+Rotis Semi Sans W1G Bold
+Rotis Semi Sans W1G Italic
+Rotis Semi Sans W1G Light Italic
+Rotis Semi Sans W1G Light
+Rotis Semi Sans W1G Regular
+Rotis Semi Sans W1G Ultra-Bold
+Rotis SemiSerif Pro Cyrillic Bold
+Rotis SemiSerif Pro Cyrillic Regular
+Rotis Semi Serif W1G Bold
+Rotis Semi Serif W1G Regular
+Rotis Serif Pro Cyrillic Bold
+Rotis Serif Pro Cyrillic Italic
+Rotis Serif Pro Cyrillic Regular
+Rotis Serif W1G Bold
+Rotis Serif W1G Italic
+Rotis Serif W1G Regular
+Symbola Semi-Condensed
+Tahoma Regular
+Times New Roman PS Pro Cyr Bold Italic
+Times New Roman PS Pro Cyr Bold
+Times New Roman PS Pro Cyr Italic
+Times New Roman PS Pro Cyr Regular
+Trump Mediaeval LT CYR Bold Italic
+Trump Mediaeval LT CYR Bold
+Trump Mediaeval LT CYR Italic
+Trump Mediaeval LT CYR Roman
+Ubuntu Bold Italic
+Ubuntu Bold
+Ubuntu Condensed,
+Ubuntu Light Italic
+Ubuntu Light
+Ubuntu Medium Italic
+Ubuntu Mono Bold Italic
+Ubuntu Mono Bold
+Ubuntu Mono Italic
+Ubuntu Mono Regular
+Ubuntu Medium
+Ubuntu Italic
+Ubuntu Regular
+UmePlus P Gothic Regular
+Uttara Regular
+VAG Rounded LT CYR Black
+VAG Rounded LT CYR Bold
+VAG Rounded LT CYR Light
+VAG Rounded LT CYR Ultra-Light
+VL Gothic regular
+VL PGothic regular
+Zapfino Extra LT W1G

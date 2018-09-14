@@ -1,0 +1,65 @@
+Arial Unicode MS Regular
+BPG Algeti GPL&GNU Regular
+BPG Chveulebrivi Bold
+BPG Chveulebrivi GPL&GNU Regular
+BPG Chveulebrivi Regular
+BPG Courier Bold
+BPG Courier S GPL&GNU Regular
+BPG Courier Regular
+BPG DejaVu Sans 2011 GNU-GPL
+BPG Elite Bold
+BPG Elite GPL&GNU Regular
+BPG Elite Regular
+BPG Excelsior Caps GPL&GNU Regular
+BPG Excelsior Condencerd GPL&GNU Condensed Regular
+BPG Excelsior GPL&GNU Regular
+BPG Glaho Bold
+BPG Glaho GPL&GNU Regular
+BPG Glaho GPL&GNU Regular
+BPG Glaho Regular
+BPG Ingiri GPL&GNU Regular
+BPG Mrgvlovani Caps GNU&GPL Regular
+BPG Mrgvlovani GPL&GNU Regular
+BPG Nateli Caps GPL&GNU Light
+BPG Nateli Condenced GPL&GNU Light
+BPG Nateli GPL&GNU Light
+BPG Nino Medium Cond GPL&GNU Regular
+BPG Nino Medium GPL&GNU Medium
+BPG Rioni Bold
+BPG Rioni Regular
+BPG Sans GPL&GNU Regular
+BPG Sans Medium GPL&GNU Regular
+BPG Sans Modern GPL&GNU Regular
+BPG Sans Regular GPL&GNU Regular
+BPG Serif GPL&GNU Regular
+BPG Serif Modern GPL&GNU Regular
+BPG Unicode Standard Regular
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Oblique
+DejaVu Sans
+DejaVu Serif Bold Italic
+DejaVu Serif Bold
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif
+Droid Sans Georgian Regular
+FreeSans Semi-Bold Italic
+FreeSans Semi-Bold
+FreeSans Italic
+FreeSans Regular
+FreeSerif Bold Italic
+FreeSerif Bold
+FreeSerif Italic
+FreeSerif Regular
+Noto Sans Georgian Bold
+Noto Sans Georgian Regular
+Noto Serif Georgian Bold
+Noto Serif Georgian Regular

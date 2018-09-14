@@ -1,0 +1,44 @@
+Amiri Bold Italic
+Amiri Bold
+Amiri Regular
+Amiri Italic
+Arial Unicode MS Regular
+DejaVu Sans Bold
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans
+Droid Arabic Kufi Bold
+Droid Arabic Kufi Regular
+Droid Arabic Naskh Bold
+Droid Arabic Naskh Regular
+FreeMono Regular
+FreeSerif Bold
+FreeSerif Regular
+Jalil Irsal Bold Italic
+Jalil Irsal Bold
+Jalil Irsal Condensed, Bold Italic
+Jalil Irsal Condensed, Bold
+Jalil Irsal Condensed, Italic
+Jalil Irsal Condensed,
+Jalil Irsal Italic
+Lateef Regular
+Lucida Bright Regular
+Lucida Sans Demibold
+Lucida Sans Oblique
+Lucida Sans Regular
+Lucida Sans Typewriter Bold
+Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter Regular
+mry_KacstQurn Regular
+Noto Kufi Arabic Bold
+Noto Kufi Arabic Regular
+Noto Naskh Arabic Bold
+Noto Naskh Arabic Regular
+Noto Sans Kufi Arabic Bold
+Noto Sans Kufi Arabic Regular
+Scheherazade Regular
+Tahoma Regular
+Times New Roman, Bold
+Times New Roman,
+Yakout Linotype Bold
+Yakout Linotype

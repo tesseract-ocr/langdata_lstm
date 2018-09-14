@@ -1,0 +1,266 @@
+Amiri Bold Italic
+Amiri Bold Italic
+Amiri Bold
+Amiri Bold
+Amiri Regular
+Amiri Regular
+Amiri Italic
+Amiri Italic
+Arial Unicode MS Regular
+Arial Unicode MS Regular
+Droid Arabic Kufi Bold
+Droid Arabic Kufi Bold
+Droid Arabic Kufi Regular
+Droid Arabic Kufi Regular
+Droid Arabic Naskh Bold
+Droid Arabic Naskh Bold
+Droid Arabic Naskh Regular
+Droid Arabic Naskh Regular
+FreeMono Regular
+FreeMono Regular
+FreeSerif Bold
+FreeSerif Bold
+FreeSerif Regular
+FreeSerif Regular
+Jalil Irsal Bold Italic
+Jalil Irsal Bold Italic
+Jalil Irsal Bold
+Jalil Irsal Bold
+Jalil Irsal Condensed, Bold Italic
+Jalil Irsal Condensed, Bold Italic
+Jalil Irsal Condensed, Bold
+Jalil Irsal Condensed, Bold
+Jalil Irsal Condensed, Italic
+Jalil Irsal Condensed, Italic
+Jalil Irsal Condensed,
+Jalil Irsal Condensed,
+Jalil Irsal Italic
+Jalil Irsal Italic
+Lateef Regular
+Lateef Regular
+Lucida Bright Regular
+Lucida Bright Regular
+Lucida Sans Demibold
+Lucida Sans Demibold
+Lucida Sans Oblique
+Lucida Sans Oblique
+Lucida Sans Regular
+Lucida Sans Regular
+Lucida Sans Typewriter Bold
+Lucida Sans Typewriter Bold
+Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter Oblique
+Lucida Sans Typewriter Regular
+Lucida Sans Typewriter Regular
+mry_KacstQurn Regular
+mry_KacstQurn Regular
+Noto Kufi Arabic Bold
+Noto Kufi Arabic Bold
+Noto Kufi Arabic Regular
+Noto Kufi Arabic Regular
+Noto Naskh Arabic Bold
+Noto Naskh Arabic Bold
+Noto Naskh Arabic Regular
+Noto Naskh Arabic Regular
+Noto Nastaliq Urdu Draft Regular
+Noto Nastaliq Urdu Draft Regular
+Noto Sans Kufi Arabic Bold
+Noto Sans Kufi Arabic Bold
+Noto Sans Kufi Arabic Regular
+Noto Sans Kufi Arabic Regular
+Scheherazade Regular
+Scheherazade Regular
+Tahoma Regular
+Tahoma Regular
+Thabit Bold Oblique
+Thabit Bold
+Thabit Medium Oblique
+Thabit Medium
+Times New Roman, Bold
+Times New Roman, Bold
+Times New Roman,
+Times New Roman,
+XB Kayhan Bold Italic
+XB Kayhan Bold Italic
+XB Kayhan Bold
+XB Kayhan Bold
+XB Kayhan Italic
+XB Kayhan Italic
+XB Kayhan Regular
+XB Kayhan Regular
+XB Khoramshahr Bold Italic
+XB Khoramshahr Bold Italic
+XB Khoramshahr Bold
+XB Khoramshahr Bold
+XB Khoramshahr Italic
+XB Khoramshahr Italic
+XB Khoramshahr Regular
+XB Khoramshahr Regular
+XB Niloofar Bold Italic
+XB Niloofar Bold Italic
+XB Niloofar Bold
+XB Niloofar Bold
+XB Niloofar Italic
+XB Niloofar Italic
+XB Niloofar Regular
+XB Niloofar Regular
+XB Riyaz Bold Italic
+XB Riyaz Bold Italic
+XB Riyaz Bold
+XB Riyaz Bold
+XB Riyaz Italic
+XB Riyaz Italic
+XB Riyaz Regular
+XB Riyaz Regular
+XB Roya Bold Italic
+XB Roya Bold Italic
+XB Roya Bold
+XB Roya Bold
+XB Roya Italic
+XB Roya Italic
+XB Roya Regular
+XB Roya Regular
+XB Shafigh Bold Italic
+XB Shafigh Bold Italic
+XB Shafigh Bold
+XB Shafigh Bold
+XB Shafigh Italic
+XB Shafigh Italic
+XB Shafigh Kurd Bold Italic
+XB Shafigh Kurd Bold Italic
+XB Shafigh Kurd Bold
+XB Shafigh Kurd Bold
+XB Shafigh Kurd Italic
+XB Shafigh Kurd Italic
+XB Shafigh Kurd Regular
+XB Shafigh Kurd Regular
+XB Shafigh Regular
+XB Shafigh Regular
+XB Shafigh Uzbek Bold Italic
+XB Shafigh Uzbek Bold Italic
+XB Shafigh Uzbek Bold
+XB Shafigh Uzbek Bold
+XB Shafigh Uzbek Italic
+XB Shafigh Uzbek Italic
+XB Shafigh Uzbek Regular
+XB Shafigh Uzbek Regular
+XB Shiraz Bold Italic
+XB Shiraz Bold Italic
+XB Shiraz Bold
+XB Shiraz Bold
+XB Shiraz Italic
+XB Shiraz Italic
+XB Shiraz Regular
+XB Shiraz Regular
+XB Sols Bold Italic
+XB Sols Bold Italic
+XB Sols Bold
+XB Sols Bold
+XB Sols Italic
+XB Sols Italic
+XB Sols Regular
+XB Sols Regular
+XB Tabriz Bold Italic
+XB Tabriz Bold Italic
+XB Tabriz Bold
+XB Tabriz Bold
+XB Tabriz Italic
+XB Tabriz Italic
+XB Tabriz Regular
+XB Tabriz Regular
+XB Titre Italic
+XB Titre Italic
+XB Titre Shadow Italic
+XB Titre Shadow Italic
+XB Titre Shadow Regular
+XB Titre Shadow Regular
+XB Titre Regular
+XB Titre Regular
+XB Yagut Bold Italic
+XB Yagut Bold Italic
+XB Yagut Bold
+XB Yagut Bold
+XB Yagut Italic
+XB Yagut Italic
+XB Yagut Regular
+XB Yagut Regular
+XB Yas Bold Italic
+XB Yas Bold Italic
+XB Yas Bold
+XB Yas Bold
+XB Yas Italic
+XB Yas Italic
+XB Yas Regular
+XB Yas Regular
+XB Zar Bold Italic
+XB Zar Bold Italic
+XB Zar Bold
+XB Zar Bold
+XB Zar Italic
+XB Zar Italic
+XB Zar Oblique Bold
+XB Zar Oblique Bold
+XB Zar Oblique
+XB Zar Oblique
+XB Zar Regular
+XB Zar Regular
+XM Traffic Bold Italic
+XM Traffic Bold Italic
+XM Traffic Bold
+XM Traffic Bold
+XM Traffic Italic
+XM Traffic Italic
+XM Traffic Regular
+XM Traffic Regular
+XM Vahid Bold Italic
+XM Vahid Bold Italic
+XM Vahid Bold
+XM Vahid Bold
+XM Vahid Italic
+XM Vahid Italic
+XM Vahid Regular
+XM Vahid Regular
+XM Yekan Bold Italic
+XM Yekan Bold Italic
+XM Yekan Bold
+XM Yekan Bold
+XM Yekan Italic
+XM Yekan Italic
+XM Yekan Regular
+XM Yekan Regular
+XM Yermook Bold Italic
+XM Yermook Bold Italic
+XM Yermook Bold
+XM Yermook Bold
+XM Yermook Italic
+XM Yermook Italic
+XM Yermook Regular
+XM Yermook Regular
+XP Paatch Italic
+XP Paatch Italic
+XP Paatch
+XP Paatch
+XP Paatch Ultra-Light Italic
+XP Paatch Ultra-Light Italic
+XP Paatch Ultra-Light
+XP Paatch Ultra-Light
+XP Vosta Bold Italic
+XP Vosta Bold Italic
+XP Vosta Bold
+XP Vosta Bold
+XP Vosta Italic
+XP Vosta Italic
+XP Vosta Regular
+XP Vosta Regular
+XP Ziba Bold Italic
+XP Ziba Bold Italic
+XP Ziba Bold
+XP Ziba Bold
+XP Ziba Italic
+XP Ziba Italic
+XP Ziba Regular
+XP Ziba Regular
+Yakout Linotype Bold
+Yakout Linotype Bold
+Yakout Linotype
+Yakout Linotype

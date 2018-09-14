@@ -1,0 +1,223 @@
+Aboriginal Sans Bold
+Aboriginal Sans Italic
+Aboriginal Sans Regular
+Aboriginal Serif Bold
+Aboriginal Serif Bold Italic
+Aboriginal Serif Italic
+Aboriginal Serif Regular
+Alexander Regular
+Amiri Bold Italic
+Amiri Bold
+Amiri Regular
+Amiri Italic
+Arial Bold
+Arial Bold Italic
+Arial Bold Italic
+Arial Bold
+Arial Italic
+Arial Italic
+Arial Regular
+Arial Regular
+Arial Unicode MS Regular
+Aroania Regular
+Avdira Regular
+Linux Biolinum O Bold
+Linux Biolinum O Regular
+Courier New Bold
+Courier New Bold Italic
+Courier New Bold Italic
+Courier New Bold
+Courier New Italic
+Courier New Regular
+Courier New Italic
+Courier New Regular
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans ExtraLight
+DejaVu Sans Mono Bold Oblique
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Oblique
+DejaVu Sans Mono
+DejaVu Sans Mono
+DejaVu Sans Oblique
+DejaVu Sans
+DejaVu Sans
+DejaVu Serif Bold Italic
+DejaVu Serif Bold Oblique
+DejaVu Serif Bold
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif Oblique
+DejaVu Serif
+Ergo LT W2G Bold Italic
+Ergo LT W2G Bold
+Ergo LT W2G Semi-Bold Italic
+Ergo LT W2G Semi-Bold
+Ergo LT W2G Italic
+Ergo LT W2G Medium Italic
+Ergo LT W2G Medium
+Ergo LT W2G Regular
+FreeMono Bold Italic
+FreeMono Bold
+FreeMono Italic
+FreeMono Regular
+FreeMono Regular
+FreeSans Semi-Bold Italic
+FreeSans Semi-Bold
+FreeSans Italic
+FreeSans Regular
+FreeSerif Bold Italic
+FreeSerif Bold
+FreeSerif Bold
+FreeSerif Italic
+FreeSerif Regular
+FreeSerif Regular
+GentiumAlt Italic
+GentiumAlt Regular
+Linux Libertine O Bold
+Linux Libertine O Bold Italic
+Linux Libertine O Italic
+Linux Libertine O Regular
+Palatino Linotype Regular
+Palatino Linotype Italic
+Palatino Linotype Bold
+Palatino Linotype Bold Italic
+OCRUnicode Regular
+Really No 2 LT W2G Bold Italic
+Really No 2 LT W2G Bold
+Really No 2 LT W2G Semi-Bold Italic
+Really No 2 LT W2G Semi-Bold
+Really No 2 LT W2G Ultra-Bold Italic
+Really No 2 LT W2G Ultra-Bold
+Really No 2 LT W2G Italic
+Really No 2 LT W2G Light Italic
+Really No 2 LT W2G Light
+Really No 2 LT W2G Medium Italic
+Really No 2 LT W2G Medium
+Really No 2 LT W2G Regular
+Really No 2 LT W2G Semibold Italic
+Really No 2 LT W2G Semibold
+Tahoma Regular
+Tahoma Regular
+Tanseek Modern Pro Arabic Bold
+Tanseek Modern Pro Arabic Ultra-Bold
+Tanseek Modern Pro Arabic Light
+Tanseek Modern Pro Arabic
+Tanseek Pro Arabic Bold
+Tanseek Pro Arabic Ultra-Bold
+Tanseek Pro Arabic Light
+Tanseek Pro Arabic Regular
+Times New Roman, Bold
+Times New Roman, Bold
+Times New Roman, Bold Italic
+Times New Roman, Italic
+Times New Roman, Bold Italic
+Times New Roman, Bold
+Times New Roman, Italic
+Times New Roman,
+Times New Roman,
+Times New Roman,
+UmePlus P Gothic Regular
+VL PGothic regular
+XB Kayhan Bold Italic
+XB Kayhan Bold
+XB Kayhan Italic
+XB Kayhan Regular
+XB Khoramshahr Bold Italic
+XB Khoramshahr Bold
+XB Khoramshahr Italic
+XB Khoramshahr Regular
+XB Niloofar Bold Italic
+XB Niloofar Bold
+XB Niloofar Italic
+XB Niloofar Regular
+XB Riyaz Bold Italic
+XB Riyaz Bold
+XB Riyaz Italic
+XB Riyaz Regular
+XB Roya Bold Italic
+XB Roya Bold
+XB Roya Italic
+XB Roya Regular
+XB Shafigh Bold Italic
+XB Shafigh Bold
+XB Shafigh Italic
+XB Shafigh Kurd Bold Italic
+XB Shafigh Kurd Bold
+XB Shafigh Kurd Italic
+XB Shafigh Kurd Regular
+XB Shafigh Regular
+XB Shafigh Uzbek Bold Italic
+XB Shafigh Uzbek Bold
+XB Shafigh Uzbek Italic
+XB Shafigh Uzbek Regular
+XB Shiraz Bold Italic
+XB Shiraz Bold
+XB Shiraz Italic
+XB Shiraz Regular
+XB Sols Bold Italic
+XB Sols Bold
+XB Sols Italic
+XB Sols Regular
+XB Tabriz Bold Italic
+XB Tabriz Bold
+XB Tabriz Italic
+XB Tabriz Regular
+XB Titre Italic
+XB Titre Shadow Italic
+XB Titre Shadow Regular
+XB Titre Regular
+XB Yagut Bold Italic
+XB Yagut Bold
+XB Yagut Italic
+XB Yagut Regular
+XB Yas Bold Italic
+XB Yas Bold
+XB Yas Italic
+XB Yas Regular
+XB Zar Bold Italic
+XB Zar Bold
+XB Zar Italic
+XB Zar Oblique Bold
+XB Zar Oblique
+XB Zar Regular
+XM Traffic Bold Italic
+XM Traffic Bold
+XM Traffic Italic
+XM Traffic Regular
+XM Vahid Bold Italic
+XM Vahid Bold
+XM Vahid Italic
+XM Vahid Regular
+XM Yekan Bold Italic
+XM Yekan Bold
+XM Yekan Italic
+XM Yekan Regular
+XM Yermook Bold Italic
+XM Yermook Bold
+XM Yermook Italic
+XM Yermook Regular
+XP Paatch Italic
+XP Paatch
+XP Paatch Ultra-Light Italic
+XP Paatch Ultra-Light
+XP Vosta Bold Italic
+XP Vosta Bold
+XP Vosta Italic
+XP Vosta Regular
+XP Ziba Bold Italic
+XP Ziba Bold
+XP Ziba Italic
+XP Ziba Regular
+Yagpo Regular

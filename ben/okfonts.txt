@@ -1,0 +1,19 @@
+Ani Regular
+Arial Unicode MS Regular
+Bangla Medium
+FreeSans Italic
+FreeSans Regular
+FreeSerif Italic
+FreeSerif Regular
+Jamrul Medium Semi-Expanded
+Likhan Medium
+Lohit Assamese Regular
+Lohit Bengali Regular
+Lohit Bengali Regular
+Mitra Mono Regular
+Mukti Narrow Bold
+Mukti Narrow Regular
+Noto Sans Bengali Bold
+Noto Sans Bengali Regular
+Vrinda Bold
+Vrinda Regular

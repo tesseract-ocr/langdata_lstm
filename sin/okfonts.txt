@@ -1,0 +1,7 @@
+FreeSerif Bold
+FreeSerif Regular
+LKLUG Regular
+Noto Sans Sinhala Bold
+Noto Sans Sinhala Regular
+OCRUnicode Regular
+Yagpo Regular

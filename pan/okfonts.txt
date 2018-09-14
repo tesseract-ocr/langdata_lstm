@@ -1,0 +1,12 @@
+Arial Unicode MS Regular
+Arial Unicode MS Regular
+FreeSans Semi-Bold
+FreeSans Regular
+FreeSerif Bold
+FreeSerif Bold
+FreeSerif Regular
+FreeSerif Regular
+Lohit Punjabi Regular
+Noto Sans Gurmukhi Bold
+Noto Sans Gurmukhi Regular
+Saab Regular

@@ -1,0 +1,22 @@
+Arial Unicode MS Regular
+Droid Sans Tamil Bold
+Droid Sans Tamil Regular
+FreeSerif Regular
+Karla Tamil Inclined Bold Italic
+Karla Tamil Inclined Italic
+Karla Tamil Upright Bold
+Karla Tamil Upright Regular
+Lohit Tamil Classical Regular
+Lohit Tamil Regular
+Lohit Tamil Regular
+Noto Sans Tamil Bold
+Noto Sans Tamil Regular
+Noto Sans Tamil UI Bold
+Noto Sans Tamil UI Regular
+TAMu_Kadambri Regular
+TAMu_Kalyani Regular
+TAMu_Maduram Normal
+TSCu_Comic Normal
+TSCu_Paranar Bold
+TSCu_Paranar Regular
+TSCu_Times Normal

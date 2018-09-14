@@ -1,0 +1,21 @@
+FreeSans Regular
+East Syriac Adiabene Regular
+Estrangelo Antioch Regular
+Serto Batnan Bold
+Serto Batnan Regular
+East Syriac Ctesiphon Regular
+Estrangelo Edessa Regular
+Serto Jerusalem Bold
+Serto Jerusalem Italic
+Serto Jerusalem Regular
+Serto Kharput Regular
+Serto Malankara Regular
+Serto Mardin Bold
+Serto Mardin Regular
+Estrangelo Midyat Regular
+Estrangelo Nisibin Regular
+Estrangelo Quenneshrin Regular
+Estrangelo Talada Regular
+Estrangelo TurAbdin Regular
+Serto Urhoy Bold
+Serto Urhoy Regular

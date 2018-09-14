@@ -1,0 +1,41 @@
+Arial Unicode MS Regular
+DejaVu Sans Bold Oblique
+DejaVu Sans Bold
+DejaVu Sans Bold Oblique Semi-Condensed
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans ExtraLight
+DejaVu Sans Mono Bold Oblique
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Oblique
+DejaVu Sans Mono
+DejaVu Sans Oblique
+DejaVu Sans
+DejaVu Serif Bold Italic
+DejaVu Serif Bold
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif
+Droid Sans Armenian Regular
+FreeMono Italic
+FreeMono Regular
+FreeSans Semi-Bold Italic
+FreeSans Semi-Bold
+FreeSans Italic
+FreeSans Regular
+FreeSerif Bold Italic
+FreeSerif Bold
+FreeSerif Italic
+FreeSerif Regular
+Linotype Maral Bold Italic
+Linotype Maral Bold
+Linotype Maral Italic
+Linotype Maral Regular
+Noto Sans Armenian Bold
+Noto Sans Armenian Regular
+Noto Serif Armenian Bold
+Noto Serif Armenian Regular
