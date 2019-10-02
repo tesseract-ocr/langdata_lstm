@@ -38,8 +38,6 @@ Agilita LT Pro Semi-Bold Italic Condensed
 Agilita LT Pro Thin
 Agilita LT Pro Thin Italic
 Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light Italic
 Agilita LT Pro Ultra-Light Italic
 Albafire LT Pro Regular
 Albatross LT Pro Regular
@@ -59,7 +57,6 @@ Alfios Regular
 AlHor Regular
 AlManzomah Regular
 AlMohanad Regular
-Ambigue Com
 Ambigue Com
 Ambigue Com Bold
 Ambigue Com Light
@@ -215,14 +212,12 @@ Avdira Bold Italic
 Avdira Italic
 Avdira Regular
 Avenir LT Pro
-Avenir LT Pro
 Avenir LT Pro Bold
 Avenir LT Pro Bold Oblique
 Avenir LT Pro Light
 Avenir LT Pro Light Oblique
 Avenir LT Pro Medium
 Avenir LT Pro Medium Oblique
-Avenir LT Pro Oblique
 Avenir LT Pro Oblique
 Avenir LT Pro Ultra-Bold
 Avenir LT Pro Ultra-Bold Oblique
@@ -243,7 +238,6 @@ Basic Commercial LT Com Light Italic
 Basic Commercial LT Com Roman
 Basic Commercial LT Com Ultra-Bold
 Basic Commercial LT Com Ultra-Bold Italic
-Baskerville Com
 Baskerville Com
 Baskerville Com Bold
 Baskerville Com Italic
@@ -548,23 +542,14 @@ FreeSerif Bold Italic
 FreeSerif Italic
 FreeSerif Regular
 Frutiger LT Pro
-Frutiger LT Pro
-Frutiger LT Pro Bold
 Frutiger LT Pro Bold
 Frutiger LT Pro Bold Italic
-Frutiger LT Pro Bold Italic
-Frutiger LT Pro Heavy
 Frutiger LT Pro Heavy
 Frutiger LT Pro Heavy Italic
 Frutiger LT Pro Italic
-Frutiger LT Pro Italic
-Frutiger LT Pro Light
 Frutiger LT Pro Light
 Frutiger LT Pro Light Italic
-Frutiger LT Pro Light Italic
 Frutiger LT Pro Ultra-Bold
-Frutiger LT Pro Ultra-Bold
-Frutiger LT Pro Ultra-Bold Italic
 Frutiger LT Pro Ultra-Bold Italic
 Furat Regular
 Generis Sans Com Bold
@@ -605,7 +590,6 @@ Gianotten LT Pro Heavy Italic
 Gianotten LT Pro Light
 Gianotten LT Pro Light Italic
 Gianotten LT Pro Medium
-Gianotten LT Pro Medium Italic
 Gianotten LT Pro Medium Italic
 Gianotten LT Pro Regular
 Gill Sans MT Pro
@@ -661,10 +645,8 @@ Helvetica Com Black Condensed
 Helvetica Com Black Condensed Oblique
 Helvetica Com Black Oblique
 Helvetica Com Bold Condensed
-Helvetica Com Bold Condensed
 Helvetica Com Bold Condensed Oblique
 Helvetica Com Bold Oblique Condensed
-Helvetica Com Condensed
 Helvetica Com Condensed
 Helvetica Com Condensed Oblique
 Helvetica Com Light Condensed
@@ -754,8 +736,6 @@ Linotype Gothic Com Regular
 Linotype Syntax Letter Com Black
 Linotype Syntax Letter Com Black Italic
 Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Italic
 Linotype Syntax Letter Com Light
@@ -812,7 +792,6 @@ Markin LT Pro
 Markin LT Pro Bold
 Markin LT Pro Bold Italic
 Markin LT Pro Italic
-Markin LT Pro Italic
 Markin LT Pro Regular
 Mashq Regular
 Mateo LT Pro Bold
@@ -867,8 +846,6 @@ Nami Com Light
 Nami Com Regular
 Nautilus LT Pro
 Nautilus LT Pro Bold
-Nautilus LT Pro Bold
-Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Italic
 Nautilus LT Pro Roman
@@ -1155,7 +1132,6 @@ Sallwey LT Com
 Sassoon Primary Com Bold
 Sassoon Primary Com Italic
 Sassoon Primary Com Medium
-Sassoon Primary Com Medium
 Sassoon Primary Com Medium Italic
 Sassoon Primary Com Regular
 Sassoon Sans Com
@@ -1246,7 +1222,6 @@ Times New Roman PS Pro Grk Regular
 Trade Gothic LT Pro Bold
 Trade Gothic LT Pro Bold 2
 Trade Gothic LT Pro Bold Condensed 20
-Trade Gothic LT Pro Bold Oblique
 Trade Gothic LT Pro Bold Oblique
 Trade Gothic LT Pro Bold Oblique Condensed
 Trade Gothic LT Pro Condensed 18

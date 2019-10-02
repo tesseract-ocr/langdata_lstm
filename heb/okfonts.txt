@@ -4,17 +4,13 @@ Andale Hebrew Bold SemiCond Bold
 Andale Hebrew Medium SemiCond Regular
 Andale Hebrew Regular,
 Arial Bold
-Arial Bold
 Arial Bold Italic
 Arial Italic
 Arial Regular
 Arial Unicode MS Regular
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 DejaVu Sans
 DejaVu Sans Bold
@@ -121,8 +117,5 @@ Really No 2 LT W2G Ultra-Bold Italic
 Tahoma Regular
 Times New Roman,
 Times New Roman, Bold
-Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic

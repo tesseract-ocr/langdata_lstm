@@ -11,7 +11,6 @@ Amiri Bold Italic
 Amiri Italic
 Amiri Regular
 Arial Bold
-Arial Bold
 Arial Bold Italic
 Arial Italic
 Arial Regular
@@ -19,11 +18,8 @@ Arial Unicode MS Regular
 Aroania Regular
 Avdira Regular
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 DejaVu Sans
 DejaVu Sans Bold
@@ -106,10 +102,7 @@ Tanseek Pro Arabic Regular
 Tanseek Pro Arabic Ultra-Bold
 Times New Roman,
 Times New Roman, Bold
-Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 UmePlus P Gothic Regular
 VL PGothic regular

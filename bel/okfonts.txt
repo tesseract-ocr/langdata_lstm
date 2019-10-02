@@ -10,10 +10,7 @@ Andale Sans WGL Bold Italic
 Andale Sans WGL Italic
 Andale Sans WGL Regular
 Arial Black,
-Arial Black,
 Arial Bold
-Arial Bold
-Arial Bold Italic
 Arial Bold Italic
 Arial Italic
 Arial MT Pro Cyr Black
@@ -84,11 +81,8 @@ Courier LT CYR Bold Italic
 Courier LT CYR Italic
 Courier LT CYR Regular
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Bold Italic
@@ -205,7 +199,6 @@ Frutiger LT CYR 87 XBlack Cond Ultra-Bold
 Frutiger LT CYR 95 Ultra Black, Ultra-Bold
 Georgia Bold
 Georgia Bold Italic
-Georgia Bold Italic
 Georgia Italic
 Georgia Regular
 Gill Sans Alt One WGL Bold
@@ -310,11 +303,8 @@ Helvetica Neue LT CYR Ultra-Bold Italic
 Impact Condensed
 Just Square LT Std Cyrillic Bold
 Just Square LT Std Cyrillic Light
-Just Square LT Std Cyrillic Light
-Just Square LT Std Cyrillic Medium
 Just Square LT Std Cyrillic Medium
 Just Square LT Std Cyrillic Regular
-Just Square LT Std Cyrillic Ultra-Light
 Just Square LT Std Cyrillic Ultra-Light
 Liberation Mono Bold
 Liberation Mono Bold Italic
@@ -513,12 +503,8 @@ Stencil LT CYR Regular
 Symbola Semi-Condensed
 Tahoma Regular
 Times New Roman,
-Times New Roman,
-Times New Roman, Bold
 Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Bold Italic
@@ -537,11 +523,8 @@ Times Ten LT Std Bold Italic
 Times Ten LT Std Italic
 Times Ten LT Std Roman
 Trebuchet MS Bold
-Trebuchet MS Bold
 Trebuchet MS Bold Italic
 Trebuchet MS Italic
-Trebuchet MS Italic
-Trebuchet MS Regular
 Trebuchet MS Regular
 Trump Mediaeval LT CYR Bold
 Trump Mediaeval LT CYR Bold Italic
@@ -588,16 +571,13 @@ VAG Rounded LT CYR Light
 VAG Rounded LT CYR Ultra-Light
 Verdana Bold
 Verdana Bold Italic
-Verdana Bold Italic
 Verdana Italic
 Verdana Regular
 VL Gothic regular
 VL PGothic regular
 WenQuanYi Zen Hei Medium
 Why Square LT Std Cyrillic Light
-Why Square LT Std Cyrillic Light
 Why Square LT Std Cyrillic Regular
-Why Square LT Std Cyrillic Ultra-Light
 Why Square LT Std Cyrillic Ultra-Light
 Wiesbaden Swing LT CYR Regular
 Zapfino Extra LT CYR

@@ -7,7 +7,6 @@ Abadi MT Std Light Italic
 Abadi MT Std Medium
 Abadi MT Std Medium Italic
 Abadi MT Std Ultra-Bold
-Abadi MT Std Ultra-Bold
 Abadi MT Std Ultra-Bold Italic
 Abadi MT Std Ultra-Light
 Abadi MT Std Ultra-Light Italic
@@ -71,8 +70,6 @@ Agilita LT Pro Semi-Bold Italic Condensed
 Agilita LT Pro Thin
 Agilita LT Pro Thin Italic
 Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light Italic
 Agilita LT Pro Ultra-Light Italic
 Ahmed LT
 Ahmed LT Regular
@@ -140,7 +137,6 @@ Amasis MT Std Medium
 Amasis MT Std Medium Italic
 Amasis MT Std Regular
 Amazone BT Regular
-Ambigue Com
 Ambigue Com
 Ambigue Com Bold
 Ambigue Com Light
@@ -225,10 +221,7 @@ Arepo Std Bold
 Arepo Std Italic
 Arepo Std Regular
 Arial Black,
-Arial Black,
 Arial Bold
-Arial Bold
-Arial Bold Italic
 Arial Bold Italic
 Arial Italic
 Arial Monospaced MT Std Bold
@@ -424,14 +417,12 @@ Avdira Bold Italic
 Avdira Italic
 Avdira Regular
 Avenir LT Pro
-Avenir LT Pro
 Avenir LT Pro Bold
 Avenir LT Pro Bold Oblique
 Avenir LT Pro Light
 Avenir LT Pro Light Oblique
 Avenir LT Pro Medium
 Avenir LT Pro Medium Oblique
-Avenir LT Pro Oblique
 Avenir LT Pro Oblique
 Avenir LT Pro Ultra-Bold
 Avenir LT Pro Ultra-Bold Oblique
@@ -480,7 +471,6 @@ Baskerville BT Bold
 Baskerville BT Bold Italic
 Baskerville BT Italic
 Baskerville BT Roman
-Baskerville Com
 Baskerville Com
 Baskerville Com Bold
 Baskerville Com Italic
@@ -556,7 +546,6 @@ Beret LT Std
 Beret LT Std Bold
 Beret LT Std Bold Italic
 Beret LT Std Italic
-Beret LT Std Italic
 Beret LT Std Light
 Beret LT Std Light Italic
 Beret LT Std Medium
@@ -620,8 +609,6 @@ Bodoni MT Std
 Bodoni MT Std Black
 Bodoni MT Std Black Italic
 Bodoni MT Std Bold
-Bodoni MT Std Bold
-Bodoni MT Std Bold Italic
 Bodoni MT Std Bold Italic
 Bodoni MT Std Italic
 Bodoni MT Std Medium
@@ -639,7 +626,6 @@ Bodoni Std Bold Italic
 Bodoni Std Heavy
 Bodoni Std Heavy Extra-Condensed
 Bodoni Std Heavy Italic
-Bodoni Std Italic
 Bodoni Std Italic
 Bodoni Std Roman
 Bodoni Svntytwo ITC Std
@@ -733,7 +719,6 @@ Buffalo Gal MT Std Medium
 Bulmer BT Italic
 Bulmer BT Roman
 Bulmer MT Std
-Bulmer MT Std Bold
 Bulmer MT Std Bold
 Bulmer MT Std Bold Italic
 Bulmer MT Std Italic
@@ -1097,11 +1082,8 @@ Courier10 BT Bold Italic
 Courier10 BT Italic
 Courier10 BT Roman
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 Courier PS MT Std Bold
 Courier PS MT Std Bold Italic
@@ -1185,7 +1167,6 @@ DIN 1451 Com
 DIN 1451 LT CYR
 DIN 1451 LT GRK
 DIN 1451 LT W1G
-DIN 1451 Std
 DIN 1451 Std
 DIN 30640 Std Bold
 DIN 30640 Std Light
@@ -1430,12 +1411,9 @@ Fairbank MT Std Regular
 Fairfield LT Std Bold
 Fairfield LT Std Bold Italic
 Fairfield LT Std Heavy
-Fairfield LT Std Heavy
 Fairfield LT Std Heavy Italic
 Fairfield LT Std Light
-Fairfield LT Std Light
 Fairfield LT Std Light Italic
-Fairfield LT Std Medium
 Fairfield LT Std Medium
 Fairfield LT Std Medium Italic
 Falstaff MT Std Heavy
@@ -1564,23 +1542,14 @@ Frutiger LT Arabic Light
 Frutiger LT Arabic Light Condensed
 Frutiger LT Arabic Ultra-Bold
 Frutiger LT Pro
-Frutiger LT Pro
-Frutiger LT Pro Bold
 Frutiger LT Pro Bold
 Frutiger LT Pro Bold Italic
-Frutiger LT Pro Bold Italic
-Frutiger LT Pro Heavy
 Frutiger LT Pro Heavy
 Frutiger LT Pro Heavy Italic
 Frutiger LT Pro Italic
-Frutiger LT Pro Italic
-Frutiger LT Pro Light
 Frutiger LT Pro Light
 Frutiger LT Pro Light Italic
-Frutiger LT Pro Light Italic
 Frutiger LT Pro Ultra-Bold
-Frutiger LT Pro Ultra-Bold
-Frutiger LT Pro Ultra-Bold Italic
 Frutiger LT Pro Ultra-Bold Italic
 FrysBaskerville BT Roman
 Furat Regular
@@ -1689,7 +1658,6 @@ Geometr706 Md BT Bold
 Geometr885 BT Regular
 Georgia Bold
 Georgia Bold Italic
-Georgia Bold Italic
 Georgia Italic
 Georgia Regular
 GeoSlab703 Lt BT
@@ -1717,7 +1685,6 @@ Gianotten LT Pro Heavy Italic
 Gianotten LT Pro Light
 Gianotten LT Pro Light Italic
 Gianotten LT Pro Medium
-Gianotten LT Pro Medium Italic
 Gianotten LT Pro Medium Italic
 Gianotten LT Pro Regular
 Gilgamesh Std
@@ -1772,7 +1739,6 @@ Gill Sans WGL Italic
 Gill Sans WGL Light
 Gill Sans WGL Light Italic
 Gill Sans WGL Regular
-Gloucester MT Std Bold
 Gloucester MT Std Bold
 Gloucester MT Std Bold Condensed
 Gloucester OS MT Std Medium
@@ -1897,10 +1863,8 @@ Helvetica Com Black Condensed
 Helvetica Com Black Condensed Oblique
 Helvetica Com Black Oblique
 Helvetica Com Bold Condensed
-Helvetica Com Bold Condensed
 Helvetica Com Bold Condensed Oblique
 Helvetica Com Bold Oblique Condensed
-Helvetica Com Condensed
 Helvetica Com Condensed
 Helvetica Com Condensed Oblique
 Helvetica Com Light Condensed
@@ -2106,9 +2070,7 @@ ITC Avant Garde Gothic Std Bold
 ITC Avant Garde Gothic Std Bold Condensed
 ITC Avant Garde Gothic Std Bold Oblique
 ITC Avant Garde Gothic Std Light
-ITC Avant Garde Gothic Std Light
 ITC Avant Garde Gothic Std Light Condensed
-ITC Avant Garde Gothic Std Light Oblique
 ITC Avant Garde Gothic Std Light Oblique
 ITC Avant Garde Gothic Std Medium
 ITC Avant Garde Gothic Std Medium Condensed
@@ -2125,12 +2087,9 @@ ITC Benguiat Gothic Std Medium
 ITC Benguiat Gothic Std Medium Oblique
 ITC Benguiat Gothic Std Oblique
 ITC Benguiat Std
-ITC Benguiat Std
-ITC Benguiat Std Bold
 ITC Benguiat Std Bold
 ITC Benguiat Std Bold Italic
 ITC Benguiat Std Italic
-ITC Benguiat Std Medium
 ITC Benguiat Std Medium
 ITC Benguiat Std Medium Italic
 ITC Berkeley Oldstyle Std
@@ -2263,22 +2222,14 @@ ITC Korinna Std Regular
 ITC Korinna Std Ultra-Bold
 ITC Korinna Std Ultra-Bold Italic
 ITC Lubalin Graph Std
-ITC Lubalin Graph Std
 ITC Lubalin Graph Std Bold
-ITC Lubalin Graph Std Bold
-ITC Lubalin Graph Std Bold Oblique
 ITC Lubalin Graph Std Bold Oblique
 ITC Lubalin Graph Std Light
 ITC Lubalin Graph Std Light Oblique
 ITC Lubalin Graph Std Medium
-ITC Lubalin Graph Std Medium
-ITC Lubalin Graph Std Medium Oblique
 ITC Lubalin Graph Std Medium Oblique
 ITC Lubalin Graph Std Oblique
-ITC Lubalin Graph Std Oblique
 ITC Lubalin Graph Std Semi-Bold
-ITC Lubalin Graph Std Semi-Bold
-ITC Lubalin Graph Std Semi-Bold Oblique
 ITC Lubalin Graph Std Semi-Bold Oblique
 ITC Mendoza Roman Std
 ITC Mendoza Roman Std Bold
@@ -2424,11 +2375,9 @@ Julius Primary Std Medium
 Julius Primary Std Medium Italic
 Just Square LT Std Bold
 Just Square LT Std Light
-Just Square LT Std Light
 Just Square LT Std Medium
 Just Square LT Std Regular
 Just Square LT Std Semi-Bold
-Just Square LT Std Ultra-Light
 Just Square LT Std Ultra-Light
 Kabel LT Std
 Kabel LT Std Black
@@ -2587,8 +2536,6 @@ Linotype Gothic Com Regular
 Linotype Syntax Letter Com Black
 Linotype Syntax Letter Com Black Italic
 Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Italic
 Linotype Syntax Letter Com Light
@@ -2615,8 +2562,6 @@ Linux Libertine O Bold
 Linux Libertine O Bold Italic
 Linux Libertine O Italic
 Linux Libertine O Regular
-LomoCopy LT Std
-LomoCopy LT Std
 LomoCopy LT Std
 LomoCopy LT Std Black
 LomoCopy LT Std Medium
@@ -2679,7 +2624,6 @@ Marcu San Com Regular
 Markin LT Pro
 Markin LT Pro Bold
 Markin LT Pro Bold Italic
-Markin LT Pro Italic
 Markin LT Pro Italic
 Markin LT Pro Regular
 Mashq Regular
@@ -2870,8 +2814,6 @@ Napoleone Slab ITC Std Italic
 Napoleone Slab ITC Std Regular
 Nautilus LT Pro
 Nautilus LT Pro Bold
-Nautilus LT Pro Bold
-Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Italic
 Nautilus LT Pro Roman
@@ -3012,7 +2954,6 @@ News Gothic Com Ultra-Bold Italic
 News Gothic Com Ultra-Light
 News Gothic Com Ultra-Light Italic
 News Gothic MT Std Bold
-News Gothic MT Std Bold
 News Gothic MT Std Bold Italic
 News Gothic MT Std Medium
 News Gothic MT Std Medium Condensed
@@ -3029,7 +2970,6 @@ News Plantin MT Std Bold Italic
 News Plantin MT Std Medium
 News Plantin MT Std Medium Italic
 Newtext ITC Std
-Newtext ITC Std Italic
 Newtext ITC Std Italic
 Newtext ITC Std Light
 Newtext ITC Std Light Italic
@@ -3053,7 +2993,6 @@ Nimrod MT Std Bold Italic
 Nimrod MT Std Italic
 Nimrod MT Std Regular
 Nimrod Small Ads MT Std Bold
-Nimrod Small Ads MT Std Medium
 Nimrod Small Ads MT Std Medium
 Nimrod WGL Bold
 Nimrod WGL Bold Italic
@@ -3632,7 +3571,6 @@ Sassoon Infant Std Regular
 Sassoon Primary Com Bold
 Sassoon Primary Com Italic
 Sassoon Primary Com Medium
-Sassoon Primary Com Medium
 Sassoon Primary Com Medium Italic
 Sassoon Primary Com Regular
 Sassoon Primary Std Bold
@@ -3741,10 +3679,7 @@ Silvermoon ITC Std Light
 Sirichana LT Bold
 Sirichana LT Regular
 Siseriff LT Std
-Siseriff LT Std
 Siseriff LT Std Bold
-Siseriff LT Std Bold
-Siseriff LT Std Bold Italic
 Siseriff LT Std Bold Italic
 Siseriff LT Std Italic
 Siseriff LT Std Regular
@@ -3787,7 +3722,6 @@ Stempel Garamond LT Std Roman
 Stempel Schneidler Std
 Stempel Schneidler Std Bold
 Stempel Schneidler Std Bold Italic
-Stempel Schneidler Std Italic
 Stempel Schneidler Std Italic
 Stempel Schneidler Std Light
 Stempel Schneidler Std Light Italic
@@ -3837,7 +3771,6 @@ StoneSerITCStd Medium
 StoneSerITCStd Medium Italic
 Storm Sans Std Bold
 Storm Sans Std Bold Italic
-Storm Sans Std Medium
 Storm Sans Std Medium
 Storm Sans Std Medium Italic
 Stranger ITC Std Regular
@@ -4004,12 +3937,8 @@ Times LT Std Roman
 Times LT Std Semibold
 Times LT Std Semibold Italic
 Times New Roman,
-Times New Roman,
-Times New Roman, Bold
 Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 Times New Roman MT Std Bold Condensed
 Times New Roman MT Std Condensed
@@ -4054,7 +3983,6 @@ Trade Gothic LT Pro Bold
 Trade Gothic LT Pro Bold 2
 Trade Gothic LT Pro Bold Condensed 20
 Trade Gothic LT Pro Bold Oblique
-Trade Gothic LT Pro Bold Oblique
 Trade Gothic LT Pro Bold Oblique Condensed
 Trade Gothic LT Pro Condensed 18
 Trade Gothic LT Pro Light
@@ -4080,11 +4008,8 @@ Transit521 BT Roman
 Transit551 Md BT
 Transit551 Md BT Italic
 Trebuchet MS Bold
-Trebuchet MS Bold
 Trebuchet MS Bold Italic
 Trebuchet MS Italic
-Trebuchet MS Italic
-Trebuchet MS Regular
 Trebuchet MS Regular
 True Grit ITC Std
 Truesdell Std Bold
@@ -4109,9 +4034,7 @@ Tw Cen Classified MT Std Bold
 Tw Cen Classified MT Std Regular
 Tw Cen MT Std
 Tw Cen MT Std Bold
-Tw Cen MT Std Bold
 Tw Cen MT Std Bold Italic
-Tw Cen MT Std Heavy
 Tw Cen MT Std Heavy
 Tw Cen MT Std Heavy Italic
 Tw Cen MT Std Light
@@ -4119,7 +4042,6 @@ Tw Cen MT Std Light Italic
 Tw Cen MT Std Medium
 Tw Cen MT Std Medium Italic
 Tw Cen MT Std SemiBold
-Tw Cen MT Std Ultra-Bold
 Tw Cen MT Std Ultra-Bold
 Tw Cen MT Std Ultra-Bold Italic
 Tyfa ITC Std
@@ -4204,7 +4126,6 @@ Venetian301 Dm BT
 Venetian301 Dm BT Italic
 Venture Com
 Verdana Bold
-Verdana Bold Italic
 Verdana Bold Italic
 Verdana Italic
 Verdana Regular

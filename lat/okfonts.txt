@@ -31,8 +31,6 @@ Agilita LT Pro Semi-Bold Italic Condensed
 Agilita LT Pro Thin
 Agilita LT Pro Thin Italic
 Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light Italic
 Agilita LT Pro Ultra-Light Italic
 AlBattar Regular
 Alexander Regular
@@ -83,10 +81,7 @@ Aptifer Slab LT Pro Ultra-Light
 Aptifer Slab LT Pro Ultra-Light Italic
 Arab Regular
 Arial Black,
-Arial Black,
 Arial Bold
-Arial Bold
-Arial Bold Italic
 Arial Bold Italic
 Arial Italic
 Arial MT Pro Cyr Black
@@ -182,11 +177,8 @@ Comic Sans MS Bold
 Comic Sans MS Regular
 Cortoba Regular
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Bold Italic
@@ -312,7 +304,6 @@ Furat Regular
 GentiumAlt Italic
 GentiumAlt Regular
 Georgia Bold
-Georgia Bold Italic
 Georgia Bold Italic
 Georgia Italic
 Georgia Regular
@@ -640,12 +631,8 @@ Tholoth Regular
 Tiemann Com Light
 Tiemann Com Roman
 Times New Roman,
-Times New Roman,
-Times New Roman, Bold
 Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Bold Italic
@@ -660,11 +647,8 @@ Times New Roman WGL Bold Italic
 Times New Roman WGL Italic
 Times New Roman WGL Regular
 Trebuchet MS Bold
-Trebuchet MS Bold
 Trebuchet MS Bold Italic
 Trebuchet MS Italic
-Trebuchet MS Italic
-Trebuchet MS Regular
 Trebuchet MS Regular
 Trump Mediaeval LT CYR Bold
 Trump Mediaeval LT CYR Bold Italic
@@ -701,7 +685,6 @@ VAG Rounded LT CYR Bold
 VAG Rounded LT CYR Light
 VAG Rounded LT CYR Ultra-Light
 Verdana Bold
-Verdana Bold Italic
 Verdana Bold Italic
 Verdana Italic
 Verdana Regular

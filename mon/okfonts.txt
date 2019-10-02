@@ -1,5 +1,4 @@
 Arial Bold
-Arial Bold
 Arial Bold Italic
 Arial Italic
 Arial MT Pro Cyr Black
@@ -29,11 +28,8 @@ Century Schlbk Pro Cyr Bold Italic
 Century Schlbk Pro Cyr Italic
 Century Schlbk Pro Cyr Regular
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Bold Italic
@@ -197,12 +193,8 @@ Rotis Serif W1G Regular
 Symbola Semi-Condensed
 Tahoma Regular
 Times New Roman,
-Times New Roman,
-Times New Roman, Bold
 Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Bold Italic

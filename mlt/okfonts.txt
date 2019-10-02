@@ -32,8 +32,6 @@ Agilita LT Pro Semi-Bold Italic Condensed
 Agilita LT Pro Thin
 Agilita LT Pro Thin Italic
 Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light
-Agilita LT Pro Ultra-Light Italic
 Agilita LT Pro Ultra-Light Italic
 Albafire LT Pro Regular
 Albatross LT Pro Regular
@@ -53,7 +51,6 @@ Alfios Regular
 AlHor Regular
 AlManzomah Regular
 AlMohanad Regular
-Ambigue Com
 Ambigue Com
 Ambigue Com Bold
 Ambigue Com Light
@@ -110,10 +107,7 @@ Aptifer Slab LT Pro Ultra-Light
 Aptifer Slab LT Pro Ultra-Light Italic
 Arab Regular
 Arial Black,
-Arial Black,
 Arial Bold
-Arial Bold
-Arial Bold Italic
 Arial Bold Italic
 Arial Italic
 Arial MT Pro Cyr Black
@@ -238,14 +232,12 @@ Avdira Bold Italic
 Avdira Italic
 Avdira Regular
 Avenir LT Pro
-Avenir LT Pro
 Avenir LT Pro Bold
 Avenir LT Pro Bold Oblique
 Avenir LT Pro Light
 Avenir LT Pro Light Oblique
 Avenir LT Pro Medium
 Avenir LT Pro Medium Oblique
-Avenir LT Pro Oblique
 Avenir LT Pro Oblique
 Avenir LT Pro Ultra-Bold
 Avenir LT Pro Ultra-Bold Oblique
@@ -266,7 +258,6 @@ Basic Commercial LT Com Light Italic
 Basic Commercial LT Com Roman
 Basic Commercial LT Com Ultra-Bold
 Basic Commercial LT Com Ultra-Bold Italic
-Baskerville Com
 Baskerville Com
 Baskerville Com Bold
 Baskerville Com Italic
@@ -388,11 +379,8 @@ Cosmiqua Com Regular
 Cosmiqua Com Semibold
 Cosmiqua Com Semibold Italic
 Courier New Bold
-Courier New Bold
 Courier New Bold Italic
 Courier New Italic
-Courier New Italic
-Courier New Regular
 Courier New Regular
 Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Bold Italic
@@ -617,7 +605,6 @@ GentiumAlt Italic
 GentiumAlt Regular
 Georgia Bold
 Georgia Bold Italic
-Georgia Bold Italic
 Georgia Italic
 Georgia Regular
 Gianotten LT Pro Black
@@ -628,7 +615,6 @@ Gianotten LT Pro Heavy Italic
 Gianotten LT Pro Light
 Gianotten LT Pro Light Italic
 Gianotten LT Pro Medium
-Gianotten LT Pro Medium Italic
 Gianotten LT Pro Medium Italic
 Gianotten LT Pro Regular
 Gill Sans Alt One WGL Bold
@@ -695,10 +681,8 @@ Helvetica Com Black Condensed
 Helvetica Com Black Condensed Oblique
 Helvetica Com Black Oblique
 Helvetica Com Bold Condensed
-Helvetica Com Bold Condensed
 Helvetica Com Bold Condensed Oblique
 Helvetica Com Bold Oblique Condensed
-Helvetica Com Condensed
 Helvetica Com Condensed
 Helvetica Com Condensed Oblique
 Helvetica Com Light Condensed
@@ -786,8 +770,6 @@ Linotype Gothic Com Regular
 Linotype Syntax Letter Com Black
 Linotype Syntax Letter Com Black Italic
 Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold
-Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Bold Italic
 Linotype Syntax Letter Com Italic
 Linotype Syntax Letter Com Light
@@ -848,7 +830,6 @@ Markin LT Pro
 Markin LT Pro Bold
 Markin LT Pro Bold Italic
 Markin LT Pro Italic
-Markin LT Pro Italic
 Markin LT Pro Regular
 Mashq Regular
 Mateo LT Pro Bold
@@ -907,8 +888,6 @@ Nami Com Light
 Nami Com Regular
 Nautilus LT Pro
 Nautilus LT Pro Bold
-Nautilus LT Pro Bold
-Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Italic
 Nautilus LT Pro Roman
@@ -1201,7 +1180,6 @@ Sallwey LT Com
 Sassoon Primary Com Bold
 Sassoon Primary Com Italic
 Sassoon Primary Com Medium
-Sassoon Primary Com Medium
 Sassoon Primary Com Medium Italic
 Sassoon Primary Com Regular
 Sassoon Sans Com
@@ -1287,12 +1265,8 @@ Times Europa Office Bold Italic
 Times Europa Office Italic
 Times Europa Office Regular
 Times New Roman,
-Times New Roman,
-Times New Roman, Bold
 Times New Roman, Bold
 Times New Roman, Bold Italic
-Times New Roman, Bold Italic
-Times New Roman, Italic
 Times New Roman, Italic
 Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Bold Italic
@@ -1310,7 +1284,6 @@ Trade Gothic LT Pro Bold
 Trade Gothic LT Pro Bold 2
 Trade Gothic LT Pro Bold Condensed 20
 Trade Gothic LT Pro Bold Oblique
-Trade Gothic LT Pro Bold Oblique
 Trade Gothic LT Pro Bold Oblique Condensed
 Trade Gothic LT Pro Condensed 18
 Trade Gothic LT Pro Light
@@ -1325,11 +1298,8 @@ Trajanus LT Com Bold Italic
 Trajanus LT Com Italic
 Trajanus LT Com Roman
 Trebuchet MS Bold
-Trebuchet MS Bold
 Trebuchet MS Bold Italic
 Trebuchet MS Italic
-Trebuchet MS Italic
-Trebuchet MS Regular
 Trebuchet MS Regular
 Trump Mediaeval LT CYR Bold
 Trump Mediaeval LT CYR Bold Italic
@@ -1374,7 +1344,6 @@ Vario Com Italic
 Vario Com Regular
 Venture Com
 Verdana Bold
-Verdana Bold Italic
 Verdana Bold Italic
 Verdana Italic
 Verdana Regular
