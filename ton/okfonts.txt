@@ -10,13 +10,13 @@ Aegyptus Semi-Condensed
 Akkadian Semi-Condensed
 Alexander Regular
 Alfios Bold
-Alfios Italic
 Alfios Bold Italic
+Alfios Italic
 Alfios Regular
-Amiri Bold Italic
 Amiri Bold
-Amiri Regular
+Amiri Bold Italic
 Amiri Italic
+Amiri Regular
 Anaktoria Regular
 Analecta Regular
 Arial Unicode MS Regular
@@ -24,52 +24,52 @@ Aroania Bold
 Aroania Regular
 Atavyros Regular
 Avdira Bold
-Avdira Italic
 Avdira Bold Italic
+Avdira Italic
 Avdira Regular
-Linux Biolinum O Bold
-Linux Biolinum O Regular
 BPG Mrgvlovani Caps GNU&GPL Regular
 BPG Mrgvlovani GPL&GNU Regular
-DejaVu Sans Bold Oblique
+DejaVu Sans
 DejaVu Sans Bold
+DejaVu Sans Bold Oblique
 DejaVu Sans Bold Oblique Semi-Condensed
 DejaVu Sans Bold Semi-Condensed
+DejaVu Sans ExtraLight
+DejaVu Sans Mono
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Bold Oblique
+DejaVu Sans Mono Oblique
+DejaVu Sans Oblique
 DejaVu Sans Oblique Semi-Condensed
 DejaVu Sans Semi-Condensed
-DejaVu Sans ExtraLight
-DejaVu Sans Mono Bold Oblique
-DejaVu Sans Mono Bold
-DejaVu Sans Mono Oblique
-DejaVu Sans Mono
-DejaVu Sans Oblique
-DejaVu Sans
-DejaVu Serif Bold Italic
-DejaVu Serif Bold Oblique
-DejaVu Serif Bold
-DejaVu Serif Bold Italic Semi-Condensed
-DejaVu Serif Bold Semi-Condensed
-DejaVu Serif Italic Semi-Condensed
-DejaVu Serif Semi-Condensed
-DejaVu Serif Italic
-DejaVu Serif Oblique
 DejaVu Serif
+DejaVu Serif Bold
+DejaVu Serif Bold Italic
+DejaVu Serif Bold Italic Semi-Condensed
+DejaVu Serif Bold Oblique
+DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic
+DejaVu Serif Italic Semi-Condensed
+DejaVu Serif Oblique
+DejaVu Serif Semi-Condensed
 Droid Sans Fallback Regular
-FreeMono Bold Italic
 FreeMono Bold
+FreeMono Bold Italic
 FreeMono Italic
 FreeMono Regular
-FreeSans Semi-Bold Italic
-FreeSans Semi-Bold
 FreeSans Italic
 FreeSans Regular
-FreeSerif Bold Italic
+FreeSans Semi-Bold
+FreeSans Semi-Bold Italic
 FreeSerif Bold
+FreeSerif Bold Italic
 FreeSerif Italic
 FreeSerif Regular
 Gardiner Semi-Condensed
 GentiumAlt Italic
 GentiumAlt Regular
+Linux Biolinum O Bold
+Linux Biolinum O Regular
 Linux Libertine O Bold
 Linux Libertine O Bold Italic
 Linux Libertine O Italic

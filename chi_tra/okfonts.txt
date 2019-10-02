@@ -1,53 +1,53 @@
 Arial Unicode MS Regular
-CFangSongHK
+AR PL UKai CN
+AR PL UKai HK
+AR PL UKai Patched
+AR PL UKai TW
+AR PL UKai TW MBE
+AR PL UMing CN Light
+AR PL UMing HK Light
+AR PL UMing Patched Light
+AR PL UMing TW Light
+AR PL UMing TW MBE Light
 CFangSong HK
-CHei2HK
+CFangSongHK
 CHei2 HK
+CHei2HK
 cwTeXFangSong Medium
 cwTeXKai Medium
 cwTeXMing Medium
 cwTeXYen Medium
 Droid Sans Fallback Regular
-MBitmapSquareHK
 MBitmapSquare HK
-MElleHK
+MBitmapSquareHK
 MElle HK
-MHeiHK
+MElleHK
+MHei HK
+MHei HK
 MHei HK
 MHeiHK
-MHei HK
 MHeiHK
-MHei HK
-MHeiHKS
+MHeiHK
+MHei HKS
 MHei HKS
 MHeiHKS
-MHei HKS
-MKaiHK
+MHeiHKS
+MKai HK
 MKai HK
 MKaiHK
-MKai HK
-MKaiHKS
+MKaiHK
 MKai HKS
-MSungHK
+MKaiHKS
+MSung HK
 MSung HK
 MSungHK
-MSung HK
-MSungHKS
+MSungHK
+MSung HKS
 MSung HKS
 MSungHKS
-MSung HKS
-MYuenHK
+MSungHKS
+MYuen HK
 MYuen HK
 MYuenHK
-MYuen HK
-AR PL UKai CN
-AR PL UKai HK
-AR PL UKai TW
-AR PL UKai TW MBE
-AR PL UKai Patched
-AR PL UMing CN Light
-AR PL UMing HK Light
-AR PL UMing TW Light
-AR PL UMing TW MBE Light
-AR PL UMing Patched Light
+MYuenHK
 WenQuanYi Zen Hei Medium

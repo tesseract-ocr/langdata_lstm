@@ -2,7 +2,7 @@ Myanmar Sans Pro Regular
 Noto Sans Myanmar Bold
 Noto Sans Myanmar Regular
 Padauk Bold
-Padauk Book, Bold
 Padauk Book,
+Padauk Book, Bold
 Padauk Regular
 TharLon Regular

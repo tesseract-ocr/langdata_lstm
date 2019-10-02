@@ -1,20 +1,20 @@
 Arial Unicode MS Regular
 Droid Sans Fallback Regular
-IPAPGothic Regular
 IPAGothic Regular
-IPAUIGothic Regular
-IPAPMincho Regular
 IPAMincho Regular
+IPAPGothic Regular
+IPAPMincho Regular
+IPAUIGothic Regular
 Kochi Gothic Regular
 Kochi Mincho Regular
 Monapo Regular
-MS Gothic Regular
-MS Mincho Regular
 MotoyaExAporo
 MotoyaExBirch
 MotoyaExCedar
 MotoyaExGothic
 MotoyaExKyotai
+MS Gothic Regular
+MS Mincho Regular
 Noto Sans Japanese Black
 Noto Sans Japanese Bold
 Noto Sans Japanese Light

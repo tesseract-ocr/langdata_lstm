@@ -6,12 +6,12 @@ Aboriginal Serif Bold Italic
 Aboriginal Serif Italic
 Aboriginal Serif Regular
 FreeMono Regular
-FreeSans Semi-Bold Italic
-FreeSans Semi-Bold
 FreeSans Italic
 FreeSans Regular
-FreeSerif Bold Italic
+FreeSans Semi-Bold
+FreeSans Semi-Bold Italic
 FreeSerif Bold
+FreeSerif Bold Italic
 FreeSerif Italic
 FreeSerif Regular
 Noto Sans Cherokee Regular

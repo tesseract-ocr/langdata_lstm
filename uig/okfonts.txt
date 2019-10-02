@@ -1,6 +1,6 @@
 Arial Unicode MS Regular
-DejaVu Sans Bold
 DejaVu Sans
+DejaVu Sans Bold
 FreeMono Regular
 FreeSerif Bold
 FreeSerif Regular

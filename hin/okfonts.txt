@@ -1,13 +1,33 @@
 Arial Unicode MS Regular
 Chandas Regular
-FreeSans Semi-Bold
 FreeSans Regular
+FreeSans Semi-Bold
 FreeSerif Bold
 FreeSerif Regular
 gargi Medium
+GIST-SDOTDhruv
+GIST-SDOTDhruv Bold
+GIST-SDOTDhruv Bold Italic
+GIST-SDOTDhruv Italic
+GIST-SDOTMohini
+GIST-SDOTMohini Bold
+GIST-SDOTMohini Bold Italic
+GIST-SDOTMohini Italic
+GIST-SDOTSubodh
+GIST-SDOTSubodh Bold
+GIST-SDOTSubodh Bold Italic
+GIST-SDOTSubodh Italic
+GIST-SDOTVinit
+GIST-SDOTVinit Bold
+GIST-SDOTVinit Bold Italic
+GIST-SDOTVinit Italic
+GIST-SDOTVishakha
+GIST-SDOTVishakha Bold
+GIST-SDOTVishakha Bold Italic
+GIST-SDOTVishakha Italic
 Lohit Devanagari Regular
-Lohit Konkani Regular
 Lohit Kashmiri Regular
+Lohit Konkani Regular
 Lohit Maithili Regular
 Lohit Marathi Regular
 Lohit Nepali Regular
@@ -26,24 +46,4 @@ Sarai Regular
 Saral LT Bold
 Saral LT Light
 Saral LT Roman
-GIST-SDOTDhruv Bold Italic
-GIST-SDOTDhruv Bold
-GIST-SDOTDhruv Italic
-GIST-SDOTDhruv
-GIST-SDOTMohini Bold Italic
-GIST-SDOTMohini Bold
-GIST-SDOTMohini Italic
-GIST-SDOTMohini
-GIST-SDOTSubodh Bold Italic
-GIST-SDOTSubodh Bold
-GIST-SDOTSubodh Italic
-GIST-SDOTSubodh
-GIST-SDOTVinit Bold Italic
-GIST-SDOTVinit Bold
-GIST-SDOTVinit Italic
-GIST-SDOTVinit
-GIST-SDOTVishakha Bold Italic
-GIST-SDOTVishakha Bold
-GIST-SDOTVishakha Italic
-GIST-SDOTVishakha
 Uttara Regular

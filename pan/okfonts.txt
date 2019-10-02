@@ -1,6 +1,6 @@
 Arial Unicode MS Regular
-FreeSans Semi-Bold
 FreeSans Regular
+FreeSans Semi-Bold
 FreeSerif Bold
 FreeSerif Regular
 Lohit Punjabi Regular

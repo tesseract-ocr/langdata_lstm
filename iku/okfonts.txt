@@ -5,12 +5,12 @@ Aboriginal Serif Bold
 Aboriginal Serif Bold Italic
 Aboriginal Serif Italic
 Aboriginal Serif Regular
-DejaVu Sans Bold Oblique
+DejaVu Sans
 DejaVu Sans Bold
+DejaVu Sans Bold Oblique
 DejaVu Sans Bold Oblique Semi-Condensed
 DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Oblique
 DejaVu Sans Oblique Semi-Condensed
 DejaVu Sans Semi-Condensed
-DejaVu Sans Oblique
-DejaVu Sans
 FreeSans Regular

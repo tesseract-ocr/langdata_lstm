@@ -5,8 +5,8 @@ BPG Chveulebrivi GPL&GNU Regular
 BPG Chveulebrivi Regular
 BPG Courier Bold
 BPG Courier GPL&GNU Regular
-BPG Courier S GPL&GNU Regular
 BPG Courier Regular
+BPG Courier S GPL&GNU Regular
 BPG DedaEna Block GPL&GNU Regular
 BPG DejaVu Sans 2011 GNU-GPL
 BPG Elite Bold
@@ -36,38 +36,38 @@ BPG Sans Regular GPL&GNU Regular
 BPG Serif GPL&GNU Regular
 BPG Serif Modern GPL&GNU Regular
 BPG Unicode Standard Regular
-DejaVu Sans Bold Oblique
+DejaVu Sans
 DejaVu Sans Bold
+DejaVu Sans Bold Oblique
 DejaVu Sans Bold Oblique Semi-Condensed
 DejaVu Sans Bold Semi-Condensed
+DejaVu Sans ExtraLight
+DejaVu Sans Mono
+DejaVu Sans Mono Bold
+DejaVu Sans Mono Bold Oblique
+DejaVu Sans Mono Oblique
+DejaVu Sans Oblique
 DejaVu Sans Oblique Semi-Condensed
 DejaVu Sans Semi-Condensed
-DejaVu Sans ExtraLight
-DejaVu Sans Mono Bold Oblique
-DejaVu Sans Mono Bold
-DejaVu Sans Mono Oblique
-DejaVu Sans Mono
-DejaVu Sans Oblique
-DejaVu Sans
-DejaVu Serif Bold Italic
+DejaVu Serif
 DejaVu Serif Bold
+DejaVu Serif Bold Italic
 DejaVu Serif Bold Italic Semi-Condensed
 DejaVu Serif Bold Semi-Condensed
+DejaVu Serif Italic
 DejaVu Serif Italic Semi-Condensed
 DejaVu Serif Semi-Condensed
-DejaVu Serif Italic
-DejaVu Serif
 Droid Sans Georgian Regular
-FreeMono Bold Italic
 FreeMono Bold
+FreeMono Bold Italic
 FreeMono Italic
 FreeMono Regular
-FreeSans Semi-Bold Italic
-FreeSans Semi-Bold
 FreeSans Italic
 FreeSans Regular
-FreeSerif Bold Italic
+FreeSans Semi-Bold
+FreeSans Semi-Bold Italic
 FreeSerif Bold
+FreeSerif Bold Italic
 FreeSerif Italic
 FreeSerif Regular
 Noto Sans Georgian Bold

@@ -1,39 +1,39 @@
 AnuParp LT Thai Regular
 Arial Unicode MS Regular
-FreeSerif Bold Italic
 FreeSerif Bold
+FreeSerif Bold Italic
 FreeSerif Italic
 FreeSerif Regular
-Garuda Bold Oblique
-Garuda Bold
-Garuda Oblique
 Garuda
+Garuda Bold
+Garuda Bold Oblique
+Garuda Oblique
+Kinnari Bold
 Kinnari Bold Italic
 Kinnari Bold Oblique
-Kinnari Bold
+Kinnari Medium
 Kinnari Medium Italic
 Kinnari Medium Oblique
-Kinnari Medium
-Loma Bold Oblique
-Loma Bold
-Loma Oblique
 Loma
+Loma Bold
+Loma Bold Oblique
+Loma Oblique
 Lucida Sans Demibold
 Lucida Sans Regular
 Lucida Sans Typewriter Bold
 Lucida Sans Typewriter Regular
+Norasi Bold
 Norasi Bold Italic
 Norasi Bold Oblique
-Norasi Bold
 Norasi Italic
 Norasi Oblique
 Norasi Regular
-Purisa Bold Oblique
-Purisa Bold
-Purisa Oblique
 Purisa
-Sawasdee Bold Oblique
+Purisa Bold
+Purisa Bold Oblique
+Purisa Oblique
 Sawasdee Bold
+Sawasdee Bold Oblique
 Sawasdee Oblique
 Sawasdee Regular
 Sirichana LT Bold
@@ -41,30 +41,30 @@ Sirichana LT Regular
 Sukothai LT Bold
 Sukothai LT Regular
 Tahoma Regular
-TlwgMono Bold Oblique
 TlwgMono Bold
-TlwgMono Oblique
+TlwgMono Bold Oblique
 TlwgMono Medium
-TlwgTypewriter Bold Oblique
+TlwgMono Oblique
 TlwgTypewriter Bold
-TlwgTypewriter Oblique
+TlwgTypewriter Bold Oblique
 TlwgTypewriter Medium
-Tlwg Typist Bold Oblique
+TlwgTypewriter Oblique
 Tlwg Typist Bold
-Tlwg Typist Medium Oblique
+Tlwg Typist Bold Oblique
 Tlwg Typist Medium
-Tlwg Typo Bold Oblique
+Tlwg Typist Medium Oblique
 Tlwg Typo Bold
-Tlwg Typo Medium Oblique
+Tlwg Typo Bold Oblique
 Tlwg Typo Medium
-Umpush Bold Oblique
-Umpush Bold
-Umpush Light Oblique
-Umpush Light
-Umpush Oblique
+Tlwg Typo Medium Oblique
 Umpush
+Umpush Bold
+Umpush Bold Oblique
+Umpush Light
+Umpush Light Oblique
+Umpush Oblique
 UtSaHaGumm LT Thai Regular
-Waree Bold Oblique
-Waree Bold
-Waree Oblique
 Waree
+Waree Bold
+Waree Bold Oblique
+Waree Oblique

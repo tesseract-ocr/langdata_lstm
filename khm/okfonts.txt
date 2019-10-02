@@ -7,9 +7,9 @@ Khmer OS Metal Chrieng Regular
 Khmer OS Muol Light
 Khmer OS Muol Pali Regular
 Khmer OS Muol Regular
+Khmer OS Regular
 Khmer OS Siemreap Regular
 Khmer OS System Regular
-Khmer OS Regular
 Noto Sans Bold
 Noto Sans Regular
 Noto Serif Khmer Bold

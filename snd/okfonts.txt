@@ -1,12 +1,12 @@
-Amiri Bold Italic
 Amiri Bold
-Amiri Regular
+Amiri Bold Italic
 Amiri Italic
+Amiri Regular
 Arial Unicode MS Regular
+DejaVu Sans
 DejaVu Sans Bold
 DejaVu Sans Bold Semi-Condensed
 DejaVu Sans Semi-Condensed
-DejaVu Sans
 Droid Arabic Kufi Bold
 Droid Arabic Kufi Regular
 Droid Arabic Naskh Bold
@@ -14,12 +14,12 @@ Droid Arabic Naskh Regular
 FreeMono Regular
 FreeSerif Bold
 FreeSerif Regular
-Jalil Irsal Bold Italic
 Jalil Irsal Bold
-Jalil Irsal Condensed, Bold Italic
-Jalil Irsal Condensed, Bold
-Jalil Irsal Condensed, Italic
+Jalil Irsal Bold Italic
 Jalil Irsal Condensed,
+Jalil Irsal Condensed, Bold
+Jalil Irsal Condensed, Bold Italic
+Jalil Irsal Condensed, Italic
 Jalil Irsal Italic
 Lateef Regular
 Lucida Bright Regular
@@ -38,7 +38,7 @@ Noto Sans Kufi Arabic Bold
 Noto Sans Kufi Arabic Regular
 Scheherazade Regular
 Tahoma Regular
-Times New Roman, Bold
 Times New Roman,
-Yakout Linotype Bold
+Times New Roman, Bold
 Yakout Linotype
+Yakout Linotype Bold
