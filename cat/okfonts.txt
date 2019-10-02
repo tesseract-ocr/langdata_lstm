@@ -81,7 +81,6 @@ Alfios Italic
 Alfios Bold Italic
 Alfios Regular
 Ambigue Com Bold
-Ambigue Com Bold
 Ambigue Com
 Ambigue Com Light
 Ambigue Com Medium
@@ -92,7 +91,6 @@ Amiri Bold
 Amiri Regular
 Amiri Italic
 Anaktoria Regular
-Andale Mono Regular
 Andale Mono Regular
 Animalia LT Pro Medium
 Anno 1 Com Italic
@@ -144,7 +142,6 @@ Arial Black,
 Arial Bold Italic
 Arial Bold
 Arial Italic
-Arial Italic
 Arial MT Pro Cyr Black
 Arial MT Pro Cyr Bold Italic
 Arial MT Pro Cyr Bold
@@ -169,7 +166,6 @@ Arial Rounded MT Pro Cyr Bold
 Arial Rounded MT Pro Cyr Regular
 Arial Rounded MT Pro Grk Bold
 Arial Rounded MT Pro Grk Regular
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Arial Black,
@@ -386,14 +382,11 @@ Cineplex LT Pro Italic
 Cineplex LT Pro Light
 Cineplex LT Pro Regular
 Clarendon Com Bold
-Clarendon Com Bold
 Clarendon Com Ultra-Bold
 Clarendon Com Light
 Clarendon Com Medium
 Codex Com Regular
 Comic Sans MS Bold
-Comic Sans MS Bold
-Comic Sans MS Regular
 Comic Sans MS Regular
 Compendio Com Italic
 Compendio Com Regular
@@ -412,7 +405,6 @@ Cosmiqua Com Regular
 Cosmiqua Com Semibold Italic
 Cosmiqua Com Semibold
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic
@@ -460,7 +452,6 @@ Demos Com Italic
 Demos Com Regular
 Didot Open Face Com Regular
 DIN 1451 Com
-DIN 1451 Com
 DIN 1451 LT CYR
 DIN 1451 LT GRK
 DIN 1451 LT W1G
@@ -485,8 +476,6 @@ Diverda Serif Com Medium Italic
 Diverda Serif Com Medium
 Diverda Serif Com Regular
 Dom Casual Com Bold
-Dom Casual Com Bold
-Dom Casual Com Medium
 Dom Casual Com Medium
 Dotum Regular
 Droid Sans Bold
@@ -646,10 +635,7 @@ Generis Slab Com Medium
 Generis Slab Com Regular
 Georgia Bold Italic
 Georgia Bold
-Georgia Bold
 Georgia Italic
-Georgia Italic
-Georgia Regular
 Georgia Regular
 Georgia Bold Italic
 Gianotten LT Pro Black
@@ -678,7 +664,6 @@ Gill Sans MT Pro Grk Light Italic
 Gill Sans MT Pro Grk Light
 Gill Sans MT Pro Grk Medium Italic
 Gill Sans MT Pro Grk Medium
-Gill Sans MT Pro Ultra-Heavy
 Gill Sans MT Pro Ultra-Heavy
 Grafiko Com Regular
 Gill Sans Alt One WGL Bold Italic
@@ -762,7 +747,6 @@ Ho Tom Com Regular
 Humanistika Com Regular
 Impacta LT Pro Regular
 Impact Condensed
-Impact Condensed
 Inagur Com Bold Italic
 Inagur Com Bold
 Inagur Com Italic
@@ -777,7 +761,6 @@ Index LT Pro
 Index LT Pro Regular
 Indus LT Pro Bold
 Indus LT Pro Normal
-Industria Com
 Industria Com
 Insignia Com Regular
 Isonorm Com Regular
@@ -867,8 +850,6 @@ Mano LT Pro Regular
 Mantika Informal Cyr Bold
 Mantika Informal Cyr Regular
 Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Regular
 Mantika Informal W1G Regular
 Marconi Com Italic
 Marconi Com
@@ -881,7 +862,6 @@ Markin LT Pro Italic
 Markin LT Pro Regular
 Markin LT Pro Italic
 Markin LT Pro
-Mateo LT Pro Bold
 Mateo LT Pro Bold
 Mateo LT Pro Roman
 Matthia Com Regular
@@ -937,7 +917,6 @@ Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold
-Nautilus LT Pro Italic
 Nautilus LT Pro Italic
 Nautilus LT Pro
 Nautilus LT Pro Roman
@@ -1014,8 +993,6 @@ Nimrod WGL Italic
 Nimrod WGL Regular
 Noris Script LT Pro Regular
 OCR A Tribute Com Bold
-OCR A Tribute Com Bold
-OCR A Tribute Com Light
 OCR A Tribute Com Light
 OCR A Tribute Com
 OCR A Tribute Com Regular
@@ -1145,7 +1122,6 @@ Rezident LT Com Medium 3
 Rezident LT Com Semi-Bold 3.9990234375
 Roemisch Com Italic
 Roemisch Com Light Italic
-Roemisch Com Light
 Roemisch Com Light
 Roemisch Com
 Roemisch Com Regular
@@ -1344,7 +1320,6 @@ Trajanus LT Com Italic
 Trajanus LT Com Roman
 Trebuchet MS Bold
 Trebuchet MS Bold Italic
-Trebuchet MS Bold Italic
 Trebuchet MS Bold
 Trebuchet MS Italic
 Trebuchet MS Regular
@@ -1404,10 +1379,7 @@ Vario Com Regular
 Venture Com
 Verdana Bold Italic
 Verdana Bold
-Verdana Bold
 Verdana Italic
-Verdana Italic
-Verdana Regular
 Verdana Regular
 Verdana Bold Italic
 Versailles LT Com Heavy Italic

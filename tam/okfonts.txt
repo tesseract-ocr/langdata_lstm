@@ -8,7 +8,6 @@ Karla Tamil Upright Bold
 Karla Tamil Upright Regular
 Lohit Tamil Classical Regular
 Lohit Tamil Regular
-Lohit Tamil Regular
 Noto Sans Tamil Bold
 Noto Sans Tamil Regular
 Noto Sans Tamil UI Bold

@@ -7,7 +7,6 @@ FreeSerif Regular
 gargi Medium
 Kalimati Regular
 Lohit Devanagari Regular
-Lohit Devanagari Regular
 Lohit Konkani Regular
 Lohit Kashmiri Regular
 Lohit Maithili Regular

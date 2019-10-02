@@ -30,8 +30,6 @@ COHeiPRC
 COHei PRC
 COYuenTGB U
 COYuenPRC
-COYuenPRC
-COYuen PRC
 COYuen PRC
 CPo3PRC
 CPo3 PRC
@@ -98,8 +96,6 @@ MHei PRC
 MHeiSungPRC
 MHeiSung PRC
 MHeiTGB U
-MHeiTGB U
-MHeiTGB U
 MJNgaiPRC
 MJNgai PRC
 MKaiPRC
@@ -127,8 +123,6 @@ MSmartPRC
 MSmart PRC
 MSmartPRC
 MSmart PRC
-MSungTGB U
-MSungTGB U
 MSungTGB U
 MStiffHeiPRC
 MStiffHei PRC

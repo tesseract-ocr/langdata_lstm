@@ -17,7 +17,6 @@ BPG Excelsior Condencerd GPL&GNU Condensed Regular
 BPG Excelsior GPL&GNU Regular
 BPG Glaho Bold
 BPG Glaho GPL&GNU Regular
-BPG Glaho GPL&GNU Regular
 BPG Glaho Regular
 BPG Gorda GPL&GNU Regular
 BPG Ingiri GPL&GNU Regular

@@ -81,23 +81,16 @@ Alcuin Com Regular
 Alef Bold
 Alef Regular
 Alexander Regular
-Alexander Regular
-Alfios Bold
 Alfios Bold
 Alfios Italic
-Alfios Italic
-Alfios Bold Italic
 Alfios Bold Italic
 Alfios Regular
-Alfios Regular
-Ambigue Com Bold
 Ambigue Com Bold
 Ambigue Com
 Ambigue Com Light
 Ambigue Com Medium
 Ambigue Com Regular
 Ambigue Com
-Anaktoria Regular
 Anaktoria Regular
 Animalia LT Pro Medium
 Anno 1 Com Italic
@@ -139,16 +132,10 @@ Aptifer Slab LT Pro Semibold
 Aptifer Slab LT Pro Ultra-Light Italic
 Aptifer Slab LT Pro Ultra-Light
 Arial MT Pro Cyr Black
-Arial MT Pro Cyr Black
-Arial MT Pro Cyr Bold Italic
 Arial MT Pro Cyr Bold Italic
 Arial MT Pro Cyr Bold
-Arial MT Pro Cyr Bold
-Arial MT Pro Cyr Italic
 Arial MT Pro Cyr Italic
 Arial MT Pro Cyr Light
-Arial MT Pro Cyr Light
-Arial MT Pro Cyr Regular
 Arial MT Pro Cyr Regular
 Arial MT Pro Grk Black
 Arial MT Pro Grk Bold Italic
@@ -157,28 +144,20 @@ Arial MT Pro Grk Italic
 Arial MT Pro Grk Light
 Arial MT Pro Grk Regular
 Arial Narrow MT Pro Cyr Bold Italic
-Arial Narrow MT Pro Cyr Bold Italic
-Arial Narrow MT Pro Cyr Bold
 Arial Narrow MT Pro Cyr Bold
 Arial Narrow MT Pro Cyr Italic
-Arial Narrow MT Pro Cyr Italic
-Arial Narrow MT Pro Cyr Regular
 Arial Narrow MT Pro Cyr Regular
 Arial Narrow MT Pro Grk Bold Italic
 Arial Narrow MT Pro Grk Bold
 Arial Narrow MT Pro Grk Italic
 Arial Narrow MT Pro Grk Regular
 Arial Rounded MT Pro Cyr Bold
-Arial Rounded MT Pro Cyr Bold
-Arial Rounded MT Pro Cyr Regular
 Arial Rounded MT Pro Cyr Regular
 Arial Rounded MT Pro Grk Bold
 Arial Rounded MT Pro Grk Regular
 Arioso Com Regular
 Arnold Boecklin Com Regular
 Aroania Bold
-Aroania Bold
-Aroania Regular
 Aroania Regular
 Aroma LT Pro Bold Italic
 Aroma LT Pro Bold
@@ -204,7 +183,6 @@ Aroma No. 2 LT Pro Light
 Aroma No. 2 LT Pro Regular
 Aroma No. 2 LT Pro Semibold Italic
 Aroma No. 2 LT Pro Semibold
-Atavyros Regular
 Atavyros Regular
 Atlantis Com Bold
 Atlantis Com Italic
@@ -248,12 +226,8 @@ Authentic Stencil Com Italic
 Authentic Stencil Com Regular
 Automat LT Pro Regular
 Avdira Bold
-Avdira Bold
-Avdira Italic
 Avdira Italic
 Avdira Bold Italic
-Avdira Bold Italic
-Avdira Regular
 Avdira Regular
 Avenir LT Pro Ultra-Bold Oblique
 Avenir LT Pro Ultra-Bold
@@ -280,7 +254,6 @@ Barbedor Com Medium Italic
 Barbedor Com Medium
 Barbedor Com Regular
 Bariton LT W1G Semi-Bold
-Bariton LT W1G Semi-Bold
 Basic Commercial LT Com Ultra-Bold Italic
 Basic Commercial LT Com Ultra-Bold
 Basic Commercial LT Com Bold Italic
@@ -300,27 +273,19 @@ Beluga Com Italic
 Beluga Com Regular
 Bigband Terrazzo LT Pro Regular
 Linux Biolinum O Bold
-Linux Biolinum O Bold
-Linux Biolinum O Regular
 Linux Biolinum O Regular
 Boberia Com Light Italic
 Boberia Com Light
 Boberia Com Semibold
 Bookman Old Style Pro Cyr Bold Italic
-Bookman Old Style Pro Cyr Bold Italic
-Bookman Old Style Pro Cyr Bold
 Bookman Old Style Pro Cyr Bold
 Bookman Old Style Pro Cyr Italic
-Bookman Old Style Pro Cyr Italic
-Bookman Old Style Pro Cyr Regular
 Bookman Old Style Pro Cyr Regular
 Bookman Old Style Pro Grk Bold Italic
 Bookman Old Style Pro Grk Bold
 Bookman Old Style Pro Grk Italic
 Bookman Old Style Pro Grk Regular
 BPG Mrgvlovani Caps GNU&GPL Regular
-BPG Mrgvlovani Caps GNU&GPL Regular
-BPG Mrgvlovani GPL&GNU Regular
 BPG Mrgvlovani GPL&GNU Regular
 Brda Com Bold Italic
 Brda Com Bold
@@ -367,24 +332,16 @@ CaseStudyNo1 LT Pro Medium Italic
 CaseStudyNo1 LT Pro Medium
 CaseStudyNo1 LT Pro Regular
 Century Gothic Pro Cyr Bold Italic
-Century Gothic Pro Cyr Bold Italic
-Century Gothic Pro Cyr Bold
 Century Gothic Pro Cyr Bold
 Century Gothic Pro Cyr Italic
-Century Gothic Pro Cyr Italic
-Century Gothic Pro Cyr Regular
 Century Gothic Pro Cyr Regular
 Century Gothic Pro Grk Bold Italic
 Century Gothic Pro Grk Bold
 Century Gothic Pro Grk Italic
 Century Gothic Pro Grk Regular
 Century Schlbk Pro Cyr Bold Italic
-Century Schlbk Pro Cyr Bold Italic
-Century Schlbk Pro Cyr Bold
 Century Schlbk Pro Cyr Bold
 Century Schlbk Pro Cyr Italic
-Century Schlbk Pro Cyr Italic
-Century Schlbk Pro Cyr Regular
 Century Schlbk Pro Cyr Regular
 Century Schlbk Pro Grk Bold Italic
 Century Schlbk Pro Grk Bold
@@ -400,7 +357,6 @@ Cineplex LT Pro Bold
 Cineplex LT Pro Italic
 Cineplex LT Pro Light
 Cineplex LT Pro Regular
-Clarendon Com Bold
 Clarendon Com Bold
 Clarendon Com Ultra-Bold
 Clarendon Com Light
@@ -423,12 +379,8 @@ Cosmiqua Com Regular
 Cosmiqua Com Semibold Italic
 Cosmiqua Com Semibold
 Courier PS Pro Cyr Bold Italic
-Courier PS Pro Cyr Bold Italic
-Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Bold
 Courier PS Pro Cyr Medium Italic
-Courier PS Pro Cyr Medium Italic
-Courier PS Pro Cyr Medium
 Courier PS Pro Cyr Medium
 Courier PS Pro Grk Bold Italic
 Courier PS Pro Grk Bold
@@ -436,61 +388,35 @@ Courier PS Pro Grk Medium Italic
 Courier PS Pro Grk Medium
 Dalcora LT Pro Regular
 DejaVu Sans Bold Oblique
-DejaVu Sans Bold Oblique
-DejaVu Sans Bold
 DejaVu Sans Bold
 DejaVu Sans Bold Oblique Semi-Condensed
-DejaVu Sans Bold Oblique Semi-Condensed
-DejaVu Sans Bold Semi-Condensed
 DejaVu Sans Bold Semi-Condensed
 DejaVu Sans Oblique Semi-Condensed
-DejaVu Sans Oblique Semi-Condensed
-DejaVu Sans Semi-Condensed
 DejaVu Sans Semi-Condensed
 DejaVu Sans ExtraLight
-DejaVu Sans ExtraLight
-DejaVu Sans Mono Bold Oblique
 DejaVu Sans Mono Bold Oblique
 DejaVu Sans Mono Bold
-DejaVu Sans Mono Bold
-DejaVu Sans Mono Oblique
 DejaVu Sans Mono Oblique
 DejaVu Sans Mono
-DejaVu Sans Mono
-DejaVu Sans Oblique
 DejaVu Sans Oblique
 DejaVu Sans
-DejaVu Sans
-DejaVu Serif Bold Italic
 DejaVu Serif Bold Italic
 DejaVu Serif Bold Oblique
-DejaVu Serif Bold Oblique
-DejaVu Serif Bold
 DejaVu Serif Bold
 DejaVu Serif Bold Italic Semi-Condensed
-DejaVu Serif Bold Italic Semi-Condensed
-DejaVu Serif Bold Semi-Condensed
 DejaVu Serif Bold Semi-Condensed
 DejaVu Serif Italic Semi-Condensed
-DejaVu Serif Italic Semi-Condensed
-DejaVu Serif Semi-Condensed
 DejaVu Serif Semi-Condensed
 DejaVu Serif Italic
-DejaVu Serif Italic
 DejaVu Serif Oblique
-DejaVu Serif Oblique
-DejaVu Serif
 DejaVu Serif
 Demos Com Bold
 Demos Com Italic
 Demos Com Regular
 Didot Open Face Com Regular
 DIN 1451 Com
-DIN 1451 Com
-DIN 1451 LT CYR
 DIN 1451 LT CYR
 DIN 1451 LT GRK
-DIN 1451 LT W1G
 DIN 1451 LT W1G
 Diverda Sans Com Ultra-Bold Italic
 Diverda Sans Com Ultra-Bold
@@ -513,22 +439,13 @@ Diverda Serif Com Medium Italic
 Diverda Serif Com Medium
 Diverda Serif Com Regular
 Dom Casual Com Bold
-Dom Casual Com Bold
-Dom Casual Com Medium
 Dom Casual Com Medium
 Droid Sans Bold
-Droid Sans Bold
-Droid Sans Mono Regular
 Droid Sans Mono Regular
 Droid Sans Regular
-Droid Sans Regular
-Droid Serif Bold Italic
 Droid Serif Bold Italic
 Droid Serif Bold
-Droid Serif Bold
 Droid Serif Italic
-Droid Serif Italic
-Droid Serif Regular
 Droid Serif Regular
 Eckmann Com Regular
 Edison Com Bold Condensed
@@ -546,20 +463,12 @@ Ergo Com Medium
 Ergo Com Regular
 Ergo Com Heavy
 Ergo LT CYR Bold Italic
-Ergo LT CYR Bold Italic
-Ergo LT CYR Bold
 Ergo LT CYR Bold
 Ergo LT CYR Semi-Bold Italic
-Ergo LT CYR Semi-Bold Italic
-Ergo LT CYR Semi-Bold
 Ergo LT CYR Semi-Bold
 Ergo LT CYR Italic
-Ergo LT CYR Italic
-Ergo LT CYR Medium Italic
 Ergo LT CYR Medium Italic
 Ergo LT CYR Medium
-Ergo LT CYR Medium
-Ergo LT CYR Regular
 Ergo LT CYR Regular
 Ergo LT GRK Bold Italic
 Ergo LT GRK Bold
@@ -584,36 +493,20 @@ Ergo LT Pro Semi-Bold Condensed
 Ergo LT Pro Medium Condensed Italic
 Ergo LT Pro Medium Condensed
 Ergo LT W1G Bold Italic
-Ergo LT W1G Bold Italic
-Ergo LT W1G Bold
 Ergo LT W1G Bold
 Ergo LT W1G Semi-Bold Italic
-Ergo LT W1G Semi-Bold Italic
-Ergo LT W1G Semi-Bold
 Ergo LT W1G Semi-Bold
 Ergo LT W1G Italic
-Ergo LT W1G Italic
-Ergo LT W1G Medium Italic
 Ergo LT W1G Medium Italic
 Ergo LT W1G Medium
-Ergo LT W1G Medium
-Ergo LT W1G Regular
 Ergo LT W1G Regular
 Ergo LT W2G Bold Italic
-Ergo LT W2G Bold Italic
-Ergo LT W2G Bold
 Ergo LT W2G Bold
 Ergo LT W2G Semi-Bold Italic
-Ergo LT W2G Semi-Bold Italic
-Ergo LT W2G Semi-Bold
 Ergo LT W2G Semi-Bold
 Ergo LT W2G Italic
-Ergo LT W2G Italic
-Ergo LT W2G Medium Italic
 Ergo LT W2G Medium Italic
 Ergo LT W2G Medium
-Ergo LT W2G Medium
-Ergo LT W2G Regular
 Ergo LT W2G Regular
 Escript Com Bold Italic
 Escript Com Bold
@@ -643,64 +536,34 @@ Finnegan LT Pro Medium
 Finnegan LT Pro Regular
 Fluxus LT Pro Regular
 Francker CYR Black
-Francker CYR Black
-Francker CYR Bold
 Francker CYR Bold
 Francker CYR Heavy
-Francker CYR Heavy
-Francker CYR Ultra-Bold
 Francker CYR Ultra-Bold
 Francker CYR Ultra-Light
-Francker CYR Ultra-Light
-Francker CYR Light
 Francker CYR Light
 Francker CYR Medium
-Francker CYR Medium
-Francker CYR Regular
 Francker CYR Regular
 Francker CYR Semibold
-Francker CYR Semibold
-Francker W1G Black
 Francker W1G Black
 Francker W1G Bold
-Francker W1G Bold
-Francker W1G Heavy
 Francker W1G Heavy
 Francker W1G Ultra-Bold
-Francker W1G Ultra-Bold
-Francker W1G Ultra-Light
 Francker W1G Ultra-Light
 Francker W1G Light
-Francker W1G Light
-Francker W1G Medium
 Francker W1G Medium
 Francker W1G Regular
-Francker W1G Regular
-Francker W1G Semibold
 Francker W1G Semibold
 FreeMono Bold Italic
-FreeMono Bold Italic
-FreeMono Bold
 FreeMono Bold
 FreeMono Italic
-FreeMono Italic
-FreeMono Regular
 FreeMono Regular
 FreeSans Semi-Bold Italic
-FreeSans Semi-Bold Italic
-FreeSans Semi-Bold
 FreeSans Semi-Bold
 FreeSans Italic
-FreeSans Italic
-FreeSans Regular
 FreeSans Regular
 FreeSerif Bold Italic
-FreeSerif Bold Italic
-FreeSerif Bold
 FreeSerif Bold
 FreeSerif Italic
-FreeSerif Italic
-FreeSerif Regular
 FreeSerif Regular
 Frutiger LT Pro Ultra-Bold Italic
 Frutiger LT Pro Ultra-Bold
@@ -765,16 +628,10 @@ Gianotten LT Pro Regular
 Gill Sans MT Pro Bold
 Gill Sans MT Pro
 Gill Sans MT Pro Cyr Bold Italic
-Gill Sans MT Pro Cyr Bold Italic
-Gill Sans MT Pro Cyr Bold
 Gill Sans MT Pro Cyr Bold
 Gill Sans MT Pro Cyr Light Italic
-Gill Sans MT Pro Cyr Light Italic
-Gill Sans MT Pro Cyr Light
 Gill Sans MT Pro Cyr Light
 Gill Sans MT Pro Cyr Medium Italic
-Gill Sans MT Pro Cyr Medium Italic
-Gill Sans MT Pro Cyr Medium
 Gill Sans MT Pro Cyr Medium
 Gill Sans MT Pro ExtraBold
 Gill Sans MT Pro Grk Bold Italic
@@ -784,60 +641,33 @@ Gill Sans MT Pro Grk Light
 Gill Sans MT Pro Grk Medium Italic
 Gill Sans MT Pro Grk Medium
 Gill Sans MT Pro Ultra-Heavy
-Gill Sans MT Pro Ultra-Heavy
 Grafiko Com Regular
 Hamada LT Pro Regular
 Harmonia Sans Pro Cyr Black Italic
-Harmonia Sans Pro Cyr Black Italic
-Harmonia Sans Pro Cyr Black
 Harmonia Sans Pro Cyr Black
 Harmonia Sans Pro Cyr Bold Condensed
-Harmonia Sans Pro Cyr Bold Condensed
-Harmonia Sans Pro Cyr Bold Italic
 Harmonia Sans Pro Cyr Bold Italic
 Harmonia Sans Pro Cyr Bold
-Harmonia Sans Pro Cyr Bold
-Harmonia Sans Pro Cyr Condensed
 Harmonia Sans Pro Cyr Condensed
 Harmonia Sans Pro Cyr Italic
-Harmonia Sans Pro Cyr Italic
-Harmonia Sans Pro Cyr Light Italic
 Harmonia Sans Pro Cyr Light Italic
 Harmonia Sans Pro Cyr Light
-Harmonia Sans Pro Cyr Light
-Harmonia Sans Pro Cyr Regular
 Harmonia Sans Pro Cyr Regular
 Harmonia Sans Pro Cyr Semi-Bold Condensed
-Harmonia Sans Pro Cyr Semi-Bold Condensed
-Harmonia Sans Pro Cyr Semi-Bold Italic
 Harmonia Sans Pro Cyr Semi-Bold Italic
 Harmonia Sans Pro Cyr Semi-Bold
-Harmonia Sans Pro Cyr Semi-Bold
-Harmonia Sans W1G Black Italic
 Harmonia Sans W1G Black Italic
 Harmonia Sans W1G Black
-Harmonia Sans W1G Black
-Harmonia Sans W1G Bold Condensed
 Harmonia Sans W1G Bold Condensed
 Harmonia Sans W1G Bold Italic
-Harmonia Sans W1G Bold Italic
-Harmonia Sans W1G Bold
 Harmonia Sans W1G Bold
 Harmonia Sans W1G Condensed
-Harmonia Sans W1G Condensed
-Harmonia Sans W1G Italic
 Harmonia Sans W1G Italic
 Harmonia Sans W1G Light Italic
-Harmonia Sans W1G Light Italic
-Harmonia Sans W1G Light
 Harmonia Sans W1G Light
 Harmonia Sans W1G Regular
-Harmonia Sans W1G Regular
-Harmonia Sans W1G Semi-Bold Condensed
 Harmonia Sans W1G Semi-Bold Condensed
 Harmonia Sans W1G Semibold Italic
-Harmonia Sans W1G Semibold Italic
-Harmonia Sans W1G Semibold
 Harmonia Sans W1G Semibold
 Helvetica Com Black Condensed
 Helvetica Com Black Condensed Oblique
@@ -854,34 +684,21 @@ Helvetica Com Light Condensed Oblique
 Helvetica Com Oblique Condensed
 Helvetica Com Condensed
 Helvetica Inserat Com Ultra-Bold
-Helvetica Inserat Com Ultra-Bold
 Helvetica LT Com Bold Oblique
 Helvetica LT Com Bold
 Helvetica LT Com Oblique
 Helvetica LT Com Roman
 Helvetica Monospaced W1G Bold Italic
-Helvetica Monospaced W1G Bold Italic
-Helvetica Monospaced W1G Bold
 Helvetica Monospaced W1G Bold
 Helvetica Monospaced W1G Italic
-Helvetica Monospaced W1G Italic
-Helvetica Monospaced W1G Regular
 Helvetica Monospaced W1G Regular
 Helvetica Neue LT CYR Bold Italic
-Helvetica Neue LT CYR Bold Italic
-Helvetica Neue LT CYR Bold
 Helvetica Neue LT CYR Bold
 Helvetica Neue LT CYR Ultra-Bold Italic
-Helvetica Neue LT CYR Ultra-Bold Italic
-Helvetica Neue LT CYR Ultra-Bold
 Helvetica Neue LT CYR Ultra-Bold
 Helvetica Neue LT CYR Italic
-Helvetica Neue LT CYR Italic
-Helvetica Neue LT CYR Medium Italic
 Helvetica Neue LT CYR Medium Italic
 Helvetica Neue LT CYR Medium
-Helvetica Neue LT CYR Medium
-Helvetica Neue LT CYR
 Helvetica Neue LT CYR
 Helvetica Textbook Com Bold Oblique
 Helvetica Textbook Com Bold
@@ -912,7 +729,6 @@ Index LT Pro Regular
 Indus LT Pro Bold
 Indus LT Pro Normal
 Industria Com
-Industria Com
 Insignia Com Regular
 Isonorm Com Regular
 Kaliber Com Ultra-Bold
@@ -925,44 +741,24 @@ Koala Com Regular
 Lake Informal LT Pro Bold
 Lake Informal LT Pro Regular
 Liberation Mono Bold Italic
-Liberation Mono Bold Italic
-Liberation Mono Bold
 Liberation Mono Bold
 Liberation Mono Italic
-Liberation Mono Italic
-Liberation Mono Regular
 Liberation Mono Regular
 Liberation Sans Bold Italic
-Liberation Sans Bold Italic
-Liberation Sans Bold
 Liberation Sans Bold
 Liberation Sans Italic
-Liberation Sans Italic
-Liberation Sans Narrow Bold Italic Condensed
 Liberation Sans Narrow Bold Italic Condensed
 Liberation Sans Narrow Bold Condensed
-Liberation Sans Narrow Bold Condensed
-Liberation Sans Narrow Italic Condensed
 Liberation Sans Narrow Italic Condensed
 Liberation Sans Narrow Condensed
-Liberation Sans Narrow Condensed
-Liberation Sans Regular
 Liberation Sans Regular
 Liberation Serif Bold Italic
-Liberation Serif Bold Italic
-Liberation Serif Bold
 Liberation Serif Bold
 Liberation Serif Italic
-Liberation Serif Italic
-Liberation Serif Regular
 Liberation Serif Regular
 Linux Libertine O Bold
-Linux Libertine O Bold
-Linux Libertine O Bold Italic
 Linux Libertine O Bold Italic
 Linux Libertine O Italic
-Linux Libertine O Italic
-Linux Libertine O Regular
 Linux Libertine O Regular
 Linotype Gothic Com Bold Italic
 Linotype Gothic Com Bold
@@ -993,33 +789,20 @@ Linotype Syntax Serif Com Medium Italic
 Linotype Syntax Serif Com Medium
 Linotype Syntax Serif Com Regular
 Palatino Linotype Regular
-Palatino Linotype Regular
-Palatino Linotype Italic
 Palatino Linotype Italic
 Palatino Linotype Bold
-Palatino Linotype Bold
-Palatino Linotype Bold Italic
 Palatino Linotype Bold Italic
 Luba LT CYR Bold
-Luba LT CYR Bold
-Luba LT CYR Light
 Luba LT CYR Light
 Luba LT CYR Semi-Bold
-Luba LT CYR Semi-Bold
-Luba LT CYR Regular
 Luba LT CYR Regular
 Lucida Bright Demibold
 Lucida Bright Demibold Italic
 Lucida Bright Italic
 Lucida Bright Regular
-Lucida Bright Regular
-Lucida Sans Demibold
 Lucida Sans Demibold
 Lucida Sans Regular
-Lucida Sans Regular
 Lucida Sans Typewriter Bold
-Lucida Sans Typewriter Bold
-Lucida Sans Typewriter Regular
 Lucida Sans Typewriter Regular
 LuMarc Com Bold
 LuMarc Com Roman
@@ -1028,16 +811,8 @@ Mano LT Pro Ultra-Bold
 Mano LT Pro Light
 Mano LT Pro Regular
 Mantika Informal Cyr Bold
-Mantika Informal Cyr Bold
-Mantika Informal Cyr Regular
 Mantika Informal Cyr Regular
 Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Regular
-Mantika Informal W1G Regular
-Mantika Informal W1G Regular
 Mantika Informal W1G Regular
 Marconi Com Italic
 Marconi Com
@@ -1050,7 +825,6 @@ Markin LT Pro Italic
 Markin LT Pro Regular
 Markin LT Pro Italic
 Markin LT Pro
-Mateo LT Pro Bold
 Mateo LT Pro Bold
 Mateo LT Pro Roman
 Matthia Com Regular
@@ -1103,32 +877,19 @@ Nautilus LT Pro Bold
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold
 Nautilus LT Pro Italic
-Nautilus LT Pro Italic
 Nautilus LT Pro
 Nautilus LT Pro Roman
 Neo Sans Pro Cyr Black Italic
-Neo Sans Pro Cyr Black Italic
-Neo Sans Pro Cyr Black
 Neo Sans Pro Cyr Black
 Neo Sans Pro Cyr Bold Italic
-Neo Sans Pro Cyr Bold Italic
-Neo Sans Pro Cyr Bold
 Neo Sans Pro Cyr Bold
 Neo Sans Pro Cyr Italic
-Neo Sans Pro Cyr Italic
-Neo Sans Pro Cyr Light Italic
 Neo Sans Pro Cyr Light Italic
 Neo Sans Pro Cyr Light
-Neo Sans Pro Cyr Light
-Neo Sans Pro Cyr Medium Italic
 Neo Sans Pro Cyr Medium Italic
 Neo Sans Pro Cyr Medium
-Neo Sans Pro Cyr Medium
-Neo Sans Pro Cyr Regular
 Neo Sans Pro Cyr Regular
 Neo Sans Pro Cyr Heavy Italic
-Neo Sans Pro Cyr Heavy Italic
-Neo Sans Pro Cyr Heavy
 Neo Sans Pro Cyr Heavy
 Neo Sans Pro Grk Ultra-Bold Italic
 Neo Sans Pro Grk Ultra-Bold
@@ -1143,28 +904,16 @@ Neo Sans Pro Grk Regular
 Neo Sans Pro Grk Heavy Italic
 Neo Sans Pro Grk Heavy
 Neo Sans W1G Black Italic
-Neo Sans W1G Black Italic
-Neo Sans W1G Black
 Neo Sans W1G Black
 Neo Sans W1G Bold Italic
-Neo Sans W1G Bold Italic
-Neo Sans W1G Bold
 Neo Sans W1G Bold
 Neo Sans W1G Italic
-Neo Sans W1G Italic
-Neo Sans W1G Light Italic
 Neo Sans W1G Light Italic
 Neo Sans W1G Light
-Neo Sans W1G Light
-Neo Sans W1G Medium Italic
 Neo Sans W1G Medium Italic
 Neo Sans W1G Medium
-Neo Sans W1G Medium
-Neo Sans W1G Regular
 Neo Sans W1G Regular
 Neo Sans W1G Heavy Italic
-Neo Sans W1G Heavy Italic
-Neo Sans W1G Heavy
 Neo Sans W1G Heavy
 Neuzeit Office Bold Italic
 Neuzeit Office Bold
@@ -1186,12 +935,8 @@ Nicolas Cochin LT Pro Black
 Nicolas Cochin LT Pro Italic
 Nicolas Cochin LT Pro Regular
 Nimrod MT Pro Cyr Bold Italic
-Nimrod MT Pro Cyr Bold Italic
-Nimrod MT Pro Cyr Bold
 Nimrod MT Pro Cyr Bold
 Nimrod MT Pro Cyr Italic
-Nimrod MT Pro Cyr Italic
-Nimrod MT Pro Cyr Regular
 Nimrod MT Pro Cyr Regular
 Nimrod MT Pro Grk Bold Italic
 Nimrod MT Pro Grk Bold
@@ -1199,29 +944,18 @@ Nimrod MT Pro Grk Italic
 Nimrod MT Pro Grk Regular
 Noris Script LT Pro Regular
 OCR A Tribute Com Bold
-OCR A Tribute Com Bold
-OCR A Tribute Com Light
 OCR A Tribute Com Light
 OCR A Tribute Com
 OCR A Tribute Com Regular
 OCRUnicode Regular
-OCRUnicode Regular
-Octane LT Com Bold Italic
 Octane LT Com Bold Italic
 Octane LT Com Bold
-Octane LT Com Bold
 Octane LT Com Italic
-Octane LT Com Italic
-Octane LT Com Regular
 Octane LT Com Regular
 Ondine Com Regular
 Optima LT CYR Bold Oblique
-Optima LT CYR Bold Oblique
-Optima LT CYR Bold
 Optima LT CYR Bold
 Optima LT CYR Oblique
-Optima LT CYR Oblique
-Optima LT CYR Roman
 Optima LT CYR Roman
 Palatino Sans LT Pro Bold Italic
 Palatino Sans LT Pro Bold
@@ -1234,19 +968,13 @@ Palatino Sans LT Pro Regular
 Palatino Sans LT Pro Ultra-Light Italic
 Palatino Sans LT Pro Ultra-Light
 Parma MT Pro Cyr Bold
-Parma MT Pro Cyr Bold
 Parma MT Pro Cyr Italic
-Parma MT Pro Cyr Italic
-Parma MT Pro Cyr Regular
 Parma MT Pro Cyr Regular
 Parma MT Pro Grk Bold
 Parma MT Pro Grk Italic
 Parma MT Pro Grk Regular
 Parma WGL Bold
-Parma WGL Bold
 Parma WGL Italic
-Parma WGL Italic
-Parma WGL Regular
 Parma WGL Regular
 Pine LT Pro Regular
 Pisa LT Com Bold
@@ -1287,30 +1015,17 @@ Really LT Com Semi-Bold
 Really LT Com Medium Italic
 Really LT Com Medium
 Really No 2 LT CYR Bold Italic
-Really No 2 LT CYR Bold Italic
-Really No 2 LT CYR Bold
 Really No 2 LT CYR Bold
 Really No 2 LT CYR Semi-Bold Italic
-Really No 2 LT CYR Semi-Bold Italic
-Really No 2 LT CYR Semi-Bold
 Really No 2 LT CYR Semi-Bold
 Really No 2 LT CYR Ultra-Bold Italic
-Really No 2 LT CYR Ultra-Bold Italic
-Really No 2 LT CYR Ultra-Bold
 Really No 2 LT CYR Ultra-Bold
 Really No 2 LT CYR Italic
-Really No 2 LT CYR Italic
-Really No 2 LT CYR Light Italic
 Really No 2 LT CYR Light Italic
 Really No 2 LT CYR Medium Italic
-Really No 2 LT CYR Medium Italic
-Really No 2 LT CYR Medium
 Really No 2 LT CYR Medium
 Really No 2 LT CYR Regular
-Really No 2 LT CYR Regular
 Really No 2 LT CYR Semibold Italic
-Really No 2 LT CYR Semibold Italic
-Really No 2 LT CYR Semibold
 Really No 2 LT CYR Semibold
 Really No 2 LT GRK Bold Italic
 Really No 2 LT GRK Bold
@@ -1327,60 +1042,32 @@ Really No 2 LT GRK Regular
 Really No 2 LT GRK Semibold Italic
 Really No 2 LT GRK Semibold
 Really No 2 LT W1G Bold Italic
-Really No 2 LT W1G Bold Italic
-Really No 2 LT W1G Bold
 Really No 2 LT W1G Bold
 Really No 2 LT W1G Semi-Bold Italic
-Really No 2 LT W1G Semi-Bold Italic
-Really No 2 LT W1G Semi-Bold
 Really No 2 LT W1G Semi-Bold
 Really No 2 LT W1G Ultra-Bold Italic
-Really No 2 LT W1G Ultra-Bold Italic
-Really No 2 LT W1G Ultra-Bold
 Really No 2 LT W1G Ultra-Bold
 Really No 2 LT W1G Italic
-Really No 2 LT W1G Italic
-Really No 2 LT W1G Light Italic
 Really No 2 LT W1G Light Italic
 Really No 2 LT W1G Light
-Really No 2 LT W1G Light
-Really No 2 LT W1G Medium Italic
 Really No 2 LT W1G Medium Italic
 Really No 2 LT W1G Medium
-Really No 2 LT W1G Medium
-Really No 2 LT W1G Regular
 Really No 2 LT W1G Regular
 Really No 2 LT W1G Semibold Italic
-Really No 2 LT W1G Semibold Italic
-Really No 2 LT W1G Semibold
 Really No 2 LT W1G Semibold
 Really No 2 LT W2G Bold Italic
-Really No 2 LT W2G Bold Italic
-Really No 2 LT W2G Bold
 Really No 2 LT W2G Bold
 Really No 2 LT W2G Semi-Bold Italic
-Really No 2 LT W2G Semi-Bold Italic
-Really No 2 LT W2G Semi-Bold
 Really No 2 LT W2G Semi-Bold
 Really No 2 LT W2G Ultra-Bold Italic
-Really No 2 LT W2G Ultra-Bold Italic
-Really No 2 LT W2G Ultra-Bold
 Really No 2 LT W2G Ultra-Bold
 Really No 2 LT W2G Italic
-Really No 2 LT W2G Italic
-Really No 2 LT W2G Light Italic
 Really No 2 LT W2G Light Italic
 Really No 2 LT W2G Light
-Really No 2 LT W2G Light
-Really No 2 LT W2G Medium Italic
 Really No 2 LT W2G Medium Italic
 Really No 2 LT W2G Medium
-Really No 2 LT W2G Medium
-Really No 2 LT W2G Regular
 Really No 2 LT W2G Regular
 Really No 2 LT W2G Semibold Italic
-Really No 2 LT W2G Semibold Italic
-Really No 2 LT W2G Semibold
 Really No 2 LT W2G Semibold
 Reducta LT Com Regular
 Rezident LT Com Light 0.9990234375
@@ -1390,21 +1077,14 @@ Rezident LT Com Semi-Bold 3.9990234375
 Roemisch Com Italic
 Roemisch Com Light Italic
 Roemisch Com Light
-Roemisch Com Light
 Roemisch Com
 Roemisch Com Regular
 Rory LT Com Oblique
 Rotis Sans Serif Pro Cyrillic Bold
-Rotis Sans Serif Pro Cyrillic Bold
-Rotis Sans Serif Pro Cyrillic ExtraBold
 Rotis Sans Serif Pro Cyrillic ExtraBold
 Rotis Sans Serif Pro Cyrillic Italic
-Rotis Sans Serif Pro Cyrillic Italic
-Rotis Sans Serif Pro Cyrillic Light
 Rotis Sans Serif Pro Cyrillic Light
 Rotis Sans Serif Pro Cyrillic Light Italic
-Rotis Sans Serif Pro Cyrillic Light Italic
-Rotis Sans Serif Pro Cyrillic Regular
 Rotis Sans Serif Pro Cyrillic Regular
 Rotis Sans Serif Pro Greek Bold
 Rotis Sans Serif Pro Greek ExtraBold
@@ -1413,28 +1093,16 @@ Rotis Sans Serif Pro Greek Light
 Rotis Sans Serif Pro Greek Light Italic
 Rotis Sans Serif Pro Greek Regular
 Rotis Sans Serif W1G Bold
-Rotis Sans Serif W1G Bold
-Rotis Sans Serif W1G Italic
 Rotis Sans Serif W1G Italic
 Rotis Sans Serif W1G Light Italic
-Rotis Sans Serif W1G Light Italic
-Rotis Sans Serif W1G Light
 Rotis Sans Serif W1G Light
 Rotis Sans Serif W1G Regular
-Rotis Sans Serif W1G Regular
-Rotis Sans Serif W1G Ultra-Bold
 Rotis Sans Serif W1G Ultra-Bold
 Rotis SemiSans Pro Cyrillic Bold
-Rotis SemiSans Pro Cyrillic Bold
-Rotis SemiSans Pro Cyrillic ExtraBold
 Rotis SemiSans Pro Cyrillic ExtraBold
 Rotis SemiSans Pro Cyrillic Italic
-Rotis SemiSans Pro Cyrillic Italic
-Rotis SemiSans Pro Cyrillic Light
 Rotis SemiSans Pro Cyrillic Light
 Rotis SemiSans Pro Cyrillic Light Italic
-Rotis SemiSans Pro Cyrillic Light Italic
-Rotis SemiSans Pro Cyrillic Regular
 Rotis SemiSans Pro Cyrillic Regular
 Rotis SemiSans Pro Greek Bold
 Rotis SemiSans Pro Greek ExtraBold
@@ -1443,41 +1111,25 @@ Rotis SemiSans Pro Greek Light
 Rotis SemiSans Pro Greek Light Italic
 Rotis SemiSans Pro Greek Regular
 Rotis Semi Sans W1G Bold
-Rotis Semi Sans W1G Bold
-Rotis Semi Sans W1G Italic
 Rotis Semi Sans W1G Italic
 Rotis Semi Sans W1G Light Italic
-Rotis Semi Sans W1G Light Italic
-Rotis Semi Sans W1G Light
 Rotis Semi Sans W1G Light
 Rotis Semi Sans W1G Regular
-Rotis Semi Sans W1G Regular
-Rotis Semi Sans W1G Ultra-Bold
 Rotis Semi Sans W1G Ultra-Bold
 Rotis SemiSerif Pro Cyrillic Bold
-Rotis SemiSerif Pro Cyrillic Bold
-Rotis SemiSerif Pro Cyrillic Regular
 Rotis SemiSerif Pro Cyrillic Regular
 Rotis SemiSerif Pro Greek Bold
 Rotis SemiSerif Pro Greek Regular
 Rotis Semi Serif W1G Bold
-Rotis Semi Serif W1G Bold
-Rotis Semi Serif W1G Regular
 Rotis Semi Serif W1G Regular
 Rotis Serif Pro Cyrillic Bold
-Rotis Serif Pro Cyrillic Bold
 Rotis Serif Pro Cyrillic Italic
-Rotis Serif Pro Cyrillic Italic
-Rotis Serif Pro Cyrillic Regular
 Rotis Serif Pro Cyrillic Regular
 Rotis Serif Pro Greek Bold
 Rotis Serif Pro Greek Italic
 Rotis Serif Pro Greek Regular
 Rotis Serif W1G Bold
-Rotis Serif W1G Bold
 Rotis Serif W1G Italic
-Rotis Serif W1G Italic
-Rotis Serif W1G Regular
 Rotis Serif W1G Regular
 Rough LT Com Bold Italic
 Rough LT Com Bold
@@ -1546,7 +1198,6 @@ Syntax Com Italic
 Syntax Com Roman
 Syntax Com Heavy
 Tahoma Regular
-Tahoma Regular
 Tanseek Modern Pro Arabic Bold
 Tanseek Modern Pro Arabic Ultra-Bold
 Tanseek Modern Pro Arabic Light
@@ -1579,12 +1230,8 @@ Times Europa Office Bold
 Times Europa Office Italic
 Times Europa Office Regular
 Times New Roman PS Pro Cyr Bold Italic
-Times New Roman PS Pro Cyr Bold Italic
-Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Bold
 Times New Roman PS Pro Cyr Italic
-Times New Roman PS Pro Cyr Italic
-Times New Roman PS Pro Cyr Regular
 Times New Roman PS Pro Cyr Regular
 Times New Roman PS Pro Grk Bold Italic
 Times New Roman PS Pro Grk Bold
@@ -1609,12 +1256,8 @@ Trajanus LT Com Bold
 Trajanus LT Com Italic
 Trajanus LT Com Roman
 Trump Mediaeval LT CYR Bold Italic
-Trump Mediaeval LT CYR Bold Italic
-Trump Mediaeval LT CYR Bold
 Trump Mediaeval LT CYR Bold
 Trump Mediaeval LT CYR Italic
-Trump Mediaeval LT CYR Italic
-Trump Mediaeval LT CYR Roman
 Trump Mediaeval LT CYR Roman
 Trump Mediaeval Office Bold Italic
 Trump Mediaeval Office Bold
@@ -1622,64 +1265,34 @@ Trump Mediaeval Office Italic
 Trump Mediaeval Office Regular
 Typo American Com Regular
 Ubuntu Bold Italic
-Ubuntu Bold Italic
-Ubuntu Bold
 Ubuntu Bold
 Ubuntu Condensed,
-Ubuntu Condensed,
-Ubuntu Light Italic
 Ubuntu Light Italic
 Ubuntu Light
-Ubuntu Light
-Ubuntu Medium Italic
 Ubuntu Medium Italic
 Ubuntu Mono Bold Italic
-Ubuntu Mono Bold Italic
-Ubuntu Mono Bold
 Ubuntu Mono Bold
 Ubuntu Mono Italic
-Ubuntu Mono Italic
-Ubuntu Mono Regular
 Ubuntu Mono Regular
 Ubuntu Medium
-Ubuntu Medium
-Ubuntu Italic
 Ubuntu Italic
 Ubuntu Regular
-Ubuntu Regular
-AR PL UKai CN
 AR PL UKai CN
 AR PL UKai HK
-AR PL UKai HK
-AR PL UKai TW
 AR PL UKai TW
 AR PL UKai TW MBE
-AR PL UKai TW MBE
-AR PL UKai Patched
 AR PL UKai Patched
 UmePlus Gothic Regular
-UmePlus Gothic Regular
-UmePlus P Gothic Regular
 UmePlus P Gothic Regular
 AR PL UMing CN Light
-AR PL UMing CN Light
-AR PL UMing HK Light
 AR PL UMing HK Light
 AR PL UMing TW Light
-AR PL UMing TW Light
-AR PL UMing TW MBE Light
 AR PL UMing TW MBE Light
 AR PL UMing Patched Light
-AR PL UMing Patched Light
-Uttara Regular
 Uttara Regular
 VAG Rounded LT CYR Black
-VAG Rounded LT CYR Black
-VAG Rounded LT CYR Bold
 VAG Rounded LT CYR Bold
 VAG Rounded LT CYR Light
-VAG Rounded LT CYR Light
-VAG Rounded LT CYR Ultra-Light
 VAG Rounded LT CYR Ultra-Light
 Vario Com Italic
 Vario Com Regular
@@ -1709,8 +1322,6 @@ Vialog LT Com Medium Italic
 Vialog LT Com Medium
 Vialog LT Com Regular
 VL Gothic regular
-VL Gothic regular
-VL PGothic regular
 VL PGothic regular
 Walbaum Com Bold Italic
 Walbaum Com Bold
@@ -1719,9 +1330,6 @@ Walbaum Com Roman
 Wilhelm Klingspor Gotisch Com Regular
 Woodstock Com Regular
 Yagpo Regular
-Yagpo Regular
-Zapfino Extra LT CYR
 Zapfino Extra LT CYR
 Zapfino Extra LT Pro Regular
-Zapfino Extra LT W1G
 Zapfino Extra LT W1G

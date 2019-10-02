@@ -5,7 +5,6 @@ Alfios Bold Italic
 Alfios Regular
 Anaktoria Regular
 Andale Mono Regular
-Andale Mono Regular
 Andale Sans WGL Bold Italic
 Andale Sans WGL Bold
 Andale Sans WGL Italic
@@ -16,7 +15,6 @@ Arial Bold Italic
 Arial Black,
 Arial Bold Italic
 Arial Bold
-Arial Italic
 Arial Italic
 Arial MT Pro Cyr Black
 Arial MT Pro Cyr Bold Italic
@@ -30,7 +28,6 @@ Arial Narrow MT Pro Cyr Italic
 Arial Narrow MT Pro Cyr Regular
 Arial Rounded MT Pro Cyr Bold
 Arial Rounded MT Pro Cyr Regular
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Arial Black,
@@ -162,11 +159,8 @@ CO2Yuen PRC
 COHeiPRC
 COHei PRC
 Comic Sans MS Bold
-Comic Sans MS Bold
-Comic Sans MS Regular
 Comic Sans MS Regular
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic
@@ -179,16 +173,10 @@ Courier New Italic
 Courier New Regular
 COYuenTGB U
 COYuenHKS
-COYuenHKS
-COYuen HKS
 COYuen HKS
 COYuenHK
-COYuenHK
-COYuen HK
 COYuen HK
 COYuenPRC
-COYuenPRC
-COYuen PRC
 COYuen PRC
 CPo3HK
 CPo3 HK
@@ -356,10 +344,7 @@ FreeSerif Regular
 GentiumAlt Regular
 Georgia Bold Italic
 Georgia Bold
-Georgia Bold
 Georgia Italic
-Georgia Italic
-Georgia Regular
 Georgia Regular
 Georgia Bold Italic
 Gill Sans MT Pro Cyr Bold Italic
@@ -422,7 +407,6 @@ Helvetica Neue LT CYR Medium
 Helvetica Neue LT CYR
 Baekmuk Headline Regular
 Impact Condensed
-Impact Condensed
 IPAPGothic Regular
 IPAGothic Regular
 IPAUIGothic Regular
@@ -440,8 +424,6 @@ Just Square LT Std Cyrillic Ultra-Light
 Just Square LT Std Cyrillic Light
 Just Square LT Std Cyrillic Ultra-Light
 Kochi Gothic Regular
-Kochi Gothic Regular
-Kochi Mincho Regular
 Kochi Mincho Regular
 KoPub Batang Bold
 KoPub Batang Light
@@ -583,8 +565,6 @@ Lucida Sans Typewriter Regular
 Mantika Informal Cyr Bold
 Mantika Informal Cyr Regular
 Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Regular
 Mantika Informal W1G Regular
 MBanquetPHK
 MBanquet P HK
@@ -704,8 +684,6 @@ MHGKyokashotai T HK
 MHGReithicTHK
 MHGReithic T HK
 MHeiTGB U
-MHeiTGB U
-MHeiTGB U
 MJNgaiHK
 MJNgai HK
 MJNgaiHKS
@@ -793,8 +771,6 @@ MSmartPRC
 MSmart PRC
 MS Mincho Regular
 MSungTGB U
-MSungTGB U
-MSungTGB U
 MStiffHeiHKS
 MStiffHei HKS
 MStiffHeiHK
@@ -838,32 +814,9 @@ MSung PRC
 MSungPRC
 MSung PRC
 MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
-MotoyaExAporo
 MotoyaExBirch
-MotoyaExBirch
-MotoyaExBirch
-MotoyaExBirch
-MotoyaExBirch
-MotoyaExCedar
-MotoyaExCedar
-MotoyaExCedar
-MotoyaExCedar
-MotoyaExCedar
-MotoyaExCedar
-MotoyaExCedar
 MotoyaExCedar
 MotoyaExGothic
-MotoyaExGothic
-MotoyaExGothic
-MotoyaExGothic
-MotoyaExKyotai
-MotoyaExKyotai
 MotoyaExKyotai
 MWindyHK
 MWindy HK
@@ -925,11 +878,8 @@ NanumGothicCoding Bold
 NanumGothicCoding Regular
 NanumGothic ExtraBold
 NanumGothic Regular
-NanumGothic Regular
-NanumMyeongjo Semi-Bold
 NanumMyeongjo Semi-Bold
 NanumMyeongjo Bold
-NanumMyeongjo Regular
 NanumMyeongjo Regular
 Nanum Pen Regular
 Neo Sans Pro Cyr Black Italic
@@ -974,7 +924,6 @@ Nimrod WGL Italic
 Nimrod WGL Regular
 Noto Sans Japanese Black
 Noto Sans Japanese Bold
-Noto Sans Japanese Light
 Noto Sans Japanese Light
 Noto Sans Japanese Medium
 Noto Sans Japanese Regular
@@ -1101,7 +1050,6 @@ Times New Roman WGL Italic
 Times New Roman WGL Regular
 Trebuchet MS Bold
 Trebuchet MS Bold Italic
-Trebuchet MS Bold Italic
 Trebuchet MS Bold
 Trebuchet MS Italic
 Trebuchet MS Regular
@@ -1153,10 +1101,7 @@ VAG Rounded LT CYR Light
 VAG Rounded LT CYR Ultra-Light
 Verdana Bold Italic
 Verdana Bold
-Verdana Bold
 Verdana Italic
-Verdana Italic
-Verdana Regular
 Verdana Regular
 Verdana Bold Italic
 VL Gothic regular

@@ -1,6 +1,5 @@
 Abadi MT Std Bold Italic
 Abadi MT Std Bold
-Abadi MT Std Bold
 Abadi MT Std Condensed
 Abadi MT Std Ultra-Bold
 Abadi MT Std Light Condensed
@@ -19,7 +18,6 @@ Aboriginal Serif Bold
 Aboriginal Serif Bold Italic
 Aboriginal Serif Italic
 Aboriginal Serif Regular
-Abyssinica SIL Regular
 Abyssinica SIL Regular
 Adobe Caslon Pro Bold Italic
 Adobe Caslon Pro Bold
@@ -155,7 +153,6 @@ Amasis MT Std Medium Italic
 Amasis MT Std Medium
 Amasis MT Std Regular
 Ambigue Com Bold
-Ambigue Com Bold
 Ambigue Com
 Ambigue Com Light
 Ambigue Com Medium
@@ -179,7 +176,6 @@ Anaktoria Regular
 Andale Sans Arabic Farsi Regular
 Andale Mono MT Std Bold
 Andale Mono MT Std Medium
-Andale Mono Regular
 Andale Mono Regular
 Angryhog ITC Std Regular
 Animalia LT Pro Medium
@@ -240,7 +236,6 @@ Arial Black,
 Arial Bold Italic
 Arial Bold
 Arial Italic
-Arial Italic
 Arial Monospaced MT Std Bold Italic
 Arial Monospaced MT Std Bold
 Arial Monospaced MT Std Medium Oblique
@@ -293,7 +288,6 @@ Arial Rounded MT Std Bold
 Arial Rounded MT Std Ultra-Bold
 Arial Rounded MT Std Light
 Arial Rounded MT Std Medium
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Arian LT Bold
@@ -360,7 +354,6 @@ Atelier Sans ITC Std Bold
 Atelier Sans ITC Std Italic
 Atelier Sans ITC Std
 AT Hadriano Std Bold
-AT Hadriano Std Ultra-Bold
 AT Hadriano Std Ultra-Bold
 AT Hadriano Std Light
 Athenaeum Std Bold
@@ -530,14 +523,11 @@ ITC Benguiat Gothic Std Medium Oblique
 ITC Benguiat Gothic Std Medium
 ITC Benguiat Std Bold
 ITC Benguiat Std Bold Italic
-ITC Benguiat Std Bold Italic
 ITC Benguiat Std Bold
 ITC Benguiat Std
 ITC Benguiat Std Italic
-ITC Benguiat Std Italic
 ITC Benguiat Std
 ITC Benguiat Std Medium
-ITC Benguiat Std Medium Italic
 ITC Benguiat Std Medium Italic
 ITC Benguiat Std Medium
 Beret LT Std Bold Italic
@@ -702,10 +692,8 @@ Buccardi Std Regular
 Buffalo Gal MT Std Medium
 Bulmer MT Std Bold
 Bulmer MT Std Bold Italic
-Bulmer MT Std Bold Italic
 Bulmer MT Std Bold
 Bulmer MT Std
-Bulmer MT Std Italic
 Bulmer MT Std Italic
 Bulmer MT Std Regular
 Bulmer MT Std Semibold Italic
@@ -905,7 +893,6 @@ Cisalpin LT Std Italic
 Cisalpin LT Std Regular
 Citadel Script Std Regular
 Clarendon Com Bold
-Clarendon Com Bold
 Clarendon Com Ultra-Bold
 Clarendon Com Light
 Clarendon Com Medium
@@ -948,8 +935,6 @@ Columbus MT Std Semibold Italic
 Columbus MT Std Semibold
 Comedia Std Medium
 Comic Sans MS Bold
-Comic Sans MS Bold
-Comic Sans MS Regular
 Comic Sans MS Regular
 Commercial Script Std Regular
 Compendio Com Italic
@@ -986,7 +971,6 @@ Cosmiqua Com Regular
 Cosmiqua Com Semibold Italic
 Cosmiqua Com Semibold
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic
@@ -1074,7 +1058,6 @@ Didot LT Std Italic
 Didot LT Std Roman
 Didot Open Face Com Regular
 DIN 1451 Com
-DIN 1451 Com
 DIN 1451 Std
 DIN 1451 LT CYR
 DIN 1451 LT GRK
@@ -1112,8 +1095,6 @@ Diverda Serif Com Medium Italic
 Diverda Serif Com Medium
 Diverda Serif Com Regular
 Dom Casual Com Bold
-Dom Casual Com Bold
-Dom Casual Com Medium
 Dom Casual Com Medium
 Dom Casual Std Bold
 Dom Casual Std Medium
@@ -1159,10 +1140,7 @@ Elan ITC Std
 Elan ITC Std Medium Italic
 Elan ITC Std Medium
 Electra LT Std Bold Italic
-Electra LT Std Bold Italic
 Electra LT Std Bold
-Electra LT Std Bold
-Electra LT Std Italic
 Electra LT Std Italic
 Electra LT Std
 Electra LT Std Regular
@@ -1281,7 +1259,6 @@ F2F MadZine LT Std
 F2F OCRAlexczyk Com Regular
 Fairbank MT Std Regular
 Fairfield LT Std Bold Italic
-Fairfield LT Std Bold
 Fairfield LT Std Bold
 Fairfield LT Std Heavy
 Fairfield LT Std Light
@@ -1451,7 +1428,6 @@ Garamond Handtooled ITC Std Regular
 Garamond MT Std Bold Italic
 Garamond MT Std Bold
 Garamond MT Std Italic
-Garamond MT Std Italic
 Garamond MT Std Regular
 Garth Graphic Std Black
 Garth Graphic Std Bold Condensed
@@ -1505,10 +1481,7 @@ Generis Slab Com Medium
 Generis Slab Com Regular
 Georgia Bold Italic
 Georgia Bold
-Georgia Bold
 Georgia Italic
-Georgia Italic
-Georgia Regular
 Georgia Regular
 Georgia Bold Italic
 Gianotten LT Pro Black
@@ -1527,10 +1500,8 @@ Gilgamesh Std Italic
 Gilgamesh Std
 Gilgamesh Std Medium
 Gill Facia MT Std Italic
-Gill Facia MT Std Italic
 Gill Facia MT Std
 Gill Facia MT Std Regular
-Gill Sans Display MT Std Bold
 Gill Sans Display MT Std Bold
 Gill Sans Display MT Std ExBd Ultra-Bold
 Gill Sans Infant Std Bold Italic
@@ -1553,7 +1524,6 @@ Gill Sans MT Pro Grk Light
 Gill Sans MT Pro Grk Medium Italic
 Gill Sans MT Pro Grk Medium
 Gill Sans MT Pro Ultra-Heavy
-Gill Sans MT Pro Ultra-Heavy
 Gill Sans MT Std Bold Italic
 Gill Sans MT Std Bold
 Gill Sans MT Std Italic
@@ -1573,7 +1543,6 @@ ITC Giovanni Std Italic
 ITC Giovanni Std
 Gloucester MT Std Bold
 Gloucester MT Std Bold Condensed
-Gloucester MT Std Bold
 Gloucester MT Std Bold
 Gloucester OS MT Std Medium
 Glypha LT Std Heavy Oblique
@@ -1616,7 +1585,6 @@ Granjon LT Std Italic
 Granjon LT Std Roman
 Greengate ITC Std Regular
 Grimshaw Hand ITC Std Regular
-Grotesque Disp MT Std Bold
 Grotesque Disp MT Std Bold
 Grotesque MT Std Black
 Grotesque MT Std Bold
@@ -1783,7 +1751,6 @@ IM FELL Great Primer Italic
 IM FELL Great Primer Regular
 Impacta LT Pro Regular
 Impact Condensed
-Impact Condensed
 Imprint MT Std Bold Italic
 Imprint MT Std Bold
 Imprint MT Std Italic
@@ -1804,7 +1771,6 @@ Index LT Pro
 Index LT Pro Regular
 Indus LT Pro Bold
 Indus LT Pro Normal
-Industria Com
 Industria Com
 Inflex MT Std Bold
 Insan Bold
@@ -2034,7 +2000,6 @@ Legal LT Std Medium Italic
 Legal LT Std Medium
 Lennox ITC Std Bold
 Lennox ITC Std
-Lennox ITC Std
 Letter Gothic MT Std Bold Italic
 Letter Gothic MT Std Bold
 Letter Gothic MT Std Medium Oblique
@@ -2118,12 +2083,9 @@ Loma Oblique
 Loma
 LomoCopy LT Std Black
 LomoCopy LT Std
-LomoCopy LT Std
 LomoCopy LT Std Medium
 LomoCopy LT Std
-LomoCopy LT Std
 LomoCopy LT Std Regular
-LomoCopy LT Std
 LomoCopy LT Std
 LomoWallRiokan LT 50
 Palatino Linotype Regular
@@ -2190,8 +2152,6 @@ Mano LT Pro Regular
 Mantika Informal Cyr Bold
 Mantika Informal Cyr Regular
 Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Regular
 Mantika Informal W1G Regular
 Marconi Com Italic
 Marconi Com
@@ -2204,7 +2164,6 @@ Markin LT Pro Italic
 Markin LT Pro Regular
 Markin LT Pro Italic
 Markin LT Pro
-Mateo LT Pro Bold
 Mateo LT Pro Bold
 Mateo LT Pro Roman
 Matthia Com Regular
@@ -2318,7 +2277,6 @@ Modern TwoSxtn ITC Std Medium Italic
 Modern TwoSxtn ITC Std Medium
 MofidMahdi LT Regular
 ITC Mona Lisa Std
-ITC Mona Lisa Std
 Monticello LT Pro Italic
 Monticello LT Pro Roman
 Montix LT Pro
@@ -2378,7 +2336,6 @@ Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold
 Nautilus LT Pro Bold Italic
 Nautilus LT Pro Bold
-Nautilus LT Pro Italic
 Nautilus LT Pro Italic
 Nautilus LT Pro
 Nautilus LT Pro Roman
@@ -2558,7 +2515,6 @@ Noris Script LT Pro Regular
 Noto Sans Japanese Black
 Noto Sans Japanese Bold
 Noto Sans Japanese Light
-Noto Sans Japanese Light
 Noto Sans Japanese Medium
 Noto Sans Japanese Regular
 Noto Sans Japanese Thin
@@ -2589,8 +2545,6 @@ Ocean Sans Std Semibold
 Ocean Sans Std ExtraBold Italic
 Ocean Sans Std ExtraBold
 OCR A Tribute Com Bold
-OCR A Tribute Com Bold
-OCR A Tribute Com Light
 OCR A Tribute Com Light
 OCR A Tribute Com
 OCR A Tribute Com Regular
@@ -2646,7 +2600,6 @@ Oldrichium ITC Std Regular
 Old Style 7 Std Italic
 Old Style 7 Std Roman
 Old Style MT Std Bold Italic
-Old Style MT Std Bold
 Old Style MT Std Bold
 Old Style MT Std Medium Italic
 Old Style MT Std Medium
@@ -2948,7 +2901,6 @@ Rockwell Std Regular
 Roemisch Com Italic
 Roemisch Com Light Italic
 Roemisch Com Light
-Roemisch Com Light
 Roemisch Com
 Roemisch Com Regular
 Romantica Std Condensed
@@ -3160,7 +3112,6 @@ Sirichana LT Regular
 Siseriff LT Std
 Siseriff LT Std Bold Italic
 Siseriff LT Std Bold
-Siseriff LT Std Italic
 Siseriff LT Std Italic
 Siseriff LT Std
 Siseriff LT Std Regular
@@ -3379,7 +3330,6 @@ Thorndale AMT Bold
 Thorndale AMT Italic
 Thorndale AMT Regular
 Tibetan Machine Uni Regular
-Tibetan Machine Uni Regular
 Tiemann Com Light
 Tiemann Com Roman
 ITC Tiepolo Std Black Italic
@@ -3497,7 +3447,6 @@ Trajanus LT Com Bold
 Trajanus LT Com Italic
 Trajanus LT Com Roman
 Trebuchet MS Bold
-Trebuchet MS Bold Italic
 Trebuchet MS Bold Italic
 Trebuchet MS Bold
 Trebuchet MS Italic
@@ -4265,7 +4214,6 @@ Tw Cen MT Std Medium Italic
 Tw Cen MT Std Light Italic
 Tw Cen MT Std Light
 Tw Cen MT Std Medium
-Tw Cen MT Std Medium
 Tw Cen MT Std SemiBold
 Tw Cen MT Std
 Tw Cen MT Std Heavy
@@ -4385,10 +4333,7 @@ Bitstream Vera Serif Roman
 Bitstream Vera Sans Roman
 Verdana Bold Italic
 Verdana Bold
-Verdana Bold
 Verdana Italic
-Verdana Italic
-Verdana Regular
 Verdana Regular
 Verdana Bold Italic
 Verkehr ITC Std Regular
@@ -4465,7 +4410,6 @@ Winchester New ITC Std Italic
 Winchester New ITC Std
 Windsor MT Std Bold
 Wisteria ITC Std Semi-Bold
-Woodland ITC Std Bold
 Woodland ITC Std Bold
 Woodland ITC Std
 Woodland ITC Std Medium

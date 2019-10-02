@@ -6,9 +6,7 @@ Alfios Regular
 Anaktoria Regular
 Arial Bold
 Arial Bold Italic
-Arial Bold Italic
 Arial Bold
-Arial Italic
 Arial Italic
 Arial MT Pro Cyr Black
 Arial MT Pro Cyr Bold Italic
@@ -22,7 +20,6 @@ Arial Narrow MT Pro Cyr Italic
 Arial Narrow MT Pro Cyr Regular
 Arial Rounded MT Pro Cyr Bold
 Arial Rounded MT Pro Cyr Regular
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Aroania Bold
@@ -47,7 +44,6 @@ Century Schlbk Pro Cyr Bold
 Century Schlbk Pro Cyr Italic
 Century Schlbk Pro Cyr Regular
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic

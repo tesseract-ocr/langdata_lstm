@@ -5,17 +5,13 @@ Andale Hebrew Bold SemiCond Bold
 Andale Hebrew Medium SemiCond Regular
 Arial Bold
 Arial Bold Italic
-Arial Bold Italic
 Arial Bold
 Arial Italic
-Arial Italic
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Linux Biolinum O Bold
 Linux Biolinum O Regular
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic
@@ -129,5 +125,4 @@ Times New Roman, Italic
 Times New Roman, Bold Italic
 Times New Roman, Bold
 Times New Roman, Italic
-Times New Roman,
 Times New Roman,

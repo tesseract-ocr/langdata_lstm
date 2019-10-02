@@ -39,8 +39,6 @@ Amiri Regular
 Amiri Italic
 Andale Sans Arabic Farsi Regular
 Arial Bold
-Arial Bold
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Arian LT Bold
@@ -55,8 +53,6 @@ Badiya LT Regular
 Badr LT Bold
 Badr LT
 Courier New Bold
-Courier New Bold
-Courier New Regular
 Courier New Regular
 DejaVu Sans Bold
 DejaVu Sans Bold Semi-Condensed
@@ -184,8 +180,6 @@ Thabit Bold
 Thabit Medium Oblique
 Thabit Medium
 Times New Roman, Bold
-Times New Roman, Bold
-Times New Roman,
 Times New Roman,
 Univers Next Arabic Semi-Bold
 Univers Next Arabic Light

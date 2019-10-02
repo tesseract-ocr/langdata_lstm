@@ -26,11 +26,8 @@ NanumGothicCoding Bold
 NanumGothicCoding Regular
 NanumGothic ExtraBold
 NanumGothic Regular
-NanumGothic Regular
-NanumMyeongjo Semi-Bold
 NanumMyeongjo Semi-Bold
 NanumMyeongjo Bold
-NanumMyeongjo Regular
 NanumMyeongjo Regular
 Nanum Pen Regular
 WenQuanYi Zen Hei Medium

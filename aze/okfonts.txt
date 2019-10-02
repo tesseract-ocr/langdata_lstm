@@ -12,11 +12,8 @@ Amiri Regular
 Amiri Italic
 Arial Bold
 Arial Bold Italic
-Arial Bold Italic
 Arial Bold
 Arial Italic
-Arial Italic
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Aroania Regular
@@ -25,7 +22,6 @@ Linux Biolinum O Bold
 Linux Biolinum O Regular
 Courier New Bold
 Courier New Bold Italic
-Courier New Bold Italic
 Courier New Bold
 Courier New Italic
 Courier New Regular
@@ -33,22 +29,16 @@ Courier New Italic
 Courier New Regular
 DejaVu Sans Bold Oblique
 DejaVu Sans Bold
-DejaVu Sans Bold
 DejaVu Sans Bold Oblique Semi-Condensed
 DejaVu Sans Bold Semi-Condensed
-DejaVu Sans Bold Semi-Condensed
 DejaVu Sans Oblique Semi-Condensed
-DejaVu Sans Semi-Condensed
 DejaVu Sans Semi-Condensed
 DejaVu Sans ExtraLight
 DejaVu Sans Mono Bold Oblique
 DejaVu Sans Mono Bold
-DejaVu Sans Mono Bold
 DejaVu Sans Mono Oblique
 DejaVu Sans Mono
-DejaVu Sans Mono
 DejaVu Sans Oblique
-DejaVu Sans
 DejaVu Sans
 DejaVu Serif Bold Italic
 DejaVu Serif Bold Oblique
@@ -72,16 +62,13 @@ FreeMono Bold Italic
 FreeMono Bold
 FreeMono Italic
 FreeMono Regular
-FreeMono Regular
 FreeSans Semi-Bold Italic
 FreeSans Semi-Bold
 FreeSans Italic
 FreeSans Regular
 FreeSerif Bold Italic
 FreeSerif Bold
-FreeSerif Bold
 FreeSerif Italic
-FreeSerif Regular
 FreeSerif Regular
 GentiumAlt Italic
 GentiumAlt Regular
@@ -109,7 +96,6 @@ Really No 2 LT W2G Regular
 Really No 2 LT W2G Semibold Italic
 Really No 2 LT W2G Semibold
 Tahoma Regular
-Tahoma Regular
 Tanseek Modern Pro Arabic Bold
 Tanseek Modern Pro Arabic Ultra-Bold
 Tanseek Modern Pro Arabic Light
@@ -119,14 +105,11 @@ Tanseek Pro Arabic Ultra-Bold
 Tanseek Pro Arabic Light
 Tanseek Pro Arabic Regular
 Times New Roman, Bold
-Times New Roman, Bold
 Times New Roman, Bold Italic
 Times New Roman, Italic
 Times New Roman, Bold Italic
 Times New Roman, Bold
 Times New Roman, Italic
-Times New Roman,
-Times New Roman,
 Times New Roman,
 UmePlus P Gothic Regular
 VL PGothic regular

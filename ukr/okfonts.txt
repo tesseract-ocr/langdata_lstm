@@ -5,7 +5,6 @@ Alfios Bold Italic
 Alfios Regular
 Anaktoria Regular
 Andale Mono Regular
-Andale Mono Regular
 Andale Sans WGL Bold Italic
 Andale Sans WGL Bold
 Andale Sans WGL Italic
@@ -16,7 +15,6 @@ Arial Bold Italic
 Arial Black,
 Arial Bold Italic
 Arial Bold
-Arial Italic
 Arial Italic
 Arial MT Pro Cyr Black
 Arial MT Pro Cyr Bold Italic
@@ -30,7 +28,6 @@ Arial Narrow MT Pro Cyr Italic
 Arial Narrow MT Pro Cyr Regular
 Arial Rounded MT Pro Cyr Bold
 Arial Rounded MT Pro Cyr Regular
-Arial Regular
 Arial Regular
 Arial Unicode MS Regular
 Arial Black,
@@ -80,11 +77,8 @@ Century Gothic WGL Italic
 Century Gothic WGL Regular
 Century Gothic WGL Semi-Bold Italic
 Comic Sans MS Bold
-Comic Sans MS Bold
-Comic Sans MS Regular
 Comic Sans MS Regular
 Courier New Bold
-Courier New Bold Italic
 Courier New Bold Italic
 Courier New Bold
 Courier New Italic
@@ -187,10 +181,7 @@ FreeSerif Italic
 FreeSerif Regular
 Georgia Bold Italic
 Georgia Bold
-Georgia Bold
 Georgia Italic
-Georgia Italic
-Georgia Regular
 Georgia Regular
 Georgia Bold Italic
 Gill Sans MT Pro Cyr Bold Italic
@@ -250,7 +241,6 @@ Helvetica Neue LT CYR Italic
 Helvetica Neue LT CYR Medium Italic
 Helvetica Neue LT CYR Medium
 Helvetica Neue LT CYR
-Impact Condensed
 Impact Condensed
 Just Square LT Std Cyrillic Bold
 Just Square LT Std Cyrillic Medium
@@ -395,8 +385,6 @@ Lucida Sans Typewriter Regular
 Mantika Informal Cyr Bold
 Mantika Informal Cyr Regular
 Mantika Informal W1G Bold
-Mantika Informal W1G Bold
-Mantika Informal W1G Regular
 Mantika Informal W1G Regular
 MS Gothic Regular
 MS Mincho Regular
@@ -556,7 +544,6 @@ Times New Roman WGL Italic
 Times New Roman WGL Regular
 Trebuchet MS Bold
 Trebuchet MS Bold Italic
-Trebuchet MS Bold Italic
 Trebuchet MS Bold
 Trebuchet MS Italic
 Trebuchet MS Regular
@@ -598,10 +585,7 @@ VAG Rounded LT CYR Light
 VAG Rounded LT CYR Ultra-Light
 Verdana Bold Italic
 Verdana Bold
-Verdana Bold
 Verdana Italic
-Verdana Italic
-Verdana Regular
 Verdana Regular
 Verdana Bold Italic
 VL Gothic regular
