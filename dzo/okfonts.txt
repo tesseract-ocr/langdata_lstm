@@ -3,3 +3,5 @@ Jomolhari Regular
 Kailasa Regular
 Kokonor Regular
 Tibetan Machine Uni Regular
+Microsoft Himalaya Regular 
+Amne Regular

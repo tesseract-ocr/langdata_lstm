@@ -4,3 +4,5 @@ Kailasa Regular
 Kokonor Regular
 Tibetan Machine Uni Regular
 TibetanTsugRing Regular
+Microsoft Himalaya Regular
+Amne Regular
